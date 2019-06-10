@@ -1,0 +1,36 @@
+'Actors': 'Karl Urban, Rachel Wood, Andile Mngadi, Porteus Xandau',
+ 'Awards': '2 wins & 14 nominations.',
+ 'BoxOffice': '$13,401,683',
+ 'Country': 'UK, South Africa, USA, India',
+ 'DVD': '08 Jan 2013',
+ 'Director': 'Pete Travis',
+ 'Genre': 'Action, Crime, Sci-Fi',
+ 'Language': 'English',
+ 'Metascore': '60',
+ 'Plot': 'In a violent, futuristic city where the police have the authority to '
+         'act as judge, jury and executioner, a cop teams with a trainee to '
+         'take down a gang that deals the reality-altering drug, SLO-MO.',
+ 'Poster': 'https://m.media-amazon.com/images/M/MV5BODkyNDQzMzUzOF5BMl5BanBnXkFtZTcwODYyMDEyOA@@._V1_SX300.jpg',
+ 'Production': 'Lionsgate Films',
+ 'Rated': 'R',
+ 'Ratings': [{'Source': 'Internet Movie Database', 'Value': '7.1/10'},
+             {'Source': 'Rotten Tomatoes', 'Value': '79%'},
+             {'Source': 'Metacritic', 'Value': '60/100'}],
+ 'Released': '21 Sep 2012',
+ 'Response': 'True',
+ 'Runtime': '95 min',
+ 'Title': 'Dredd',
+ 'Type': 'movie',
+ 'Website': 'http://www.dreddthemovie.com/',
+ 'Writer': 'John Wagner (characters), Carlos Ezquerra (characters), Alex '
+           'Garland (screenplay)',
+ 'Year': '2012',
+ 'imdbID': 'tt1343727',
+ 'imdbRating': '7.1',
+ 'imdbVotes': '233,969'}
+
+
+by year
+by country(us or not?)
+by genre(action or not?)
+by production

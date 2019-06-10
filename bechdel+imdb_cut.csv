@@ -1,0 +1,995 @@
+year,imdb,title,test,clean_test,binary,budget,Country,Genre,isUSFilm,Production,RT_Score
+2013,tt1711425,21 &amp; Over,notalk,notalk,FAIL,13000000,USA,Comedy,TRUE,Relativity Media,25
+2012,tt1343727,Dredd 3D,ok-disagree,ok,PASS,45000000,"UK, South Africa, USA, India","Action, Crime, Sci-Fi",TRUE,Lionsgate Films,79
+2013,tt2024544,12 Years a Slave,notalk-disagree,notalk,FAIL,20000000,"USA, UK","Biography, Drama, History",TRUE,Fox Searchlight,95
+2013,tt1272878,2 Guns,notalk,notalk,FAIL,61000000,USA,"Action, Comedy, Crime, Thriller",TRUE,Universal Pictures,64
+2013,tt0453562,42,men,men,FAIL,40000000,USA,"Biography, Drama, Sport",TRUE,Warner Bros. Pictures,80
+2013,tt1335975,47 Ronin,men,men,FAIL,225000000,"USA, UK, Japan, Hungary","Action, Adventure, Drama, Fantasy",TRUE,Universal Pictures,15
+2013,tt1606378,A Good Day to Die Hard,notalk,notalk,FAIL,92000000,"USA, Russia","Action, Thriller",TRUE,20th Century Fox,15
+2013,tt2194499,About Time,ok-disagree,ok,PASS,12000000,UK,"Comedy, Drama, Fantasy, Romance, Sci-Fi",FALSE,Universal Pictures,69
+2013,tt1814621,Admission,ok,ok,PASS,13000000,USA,"Comedy, Drama, Romance",TRUE,Focus Features,39
+2013,tt1815862,After Earth,notalk,notalk,FAIL,130000000,USA,"Action, Adventure, Sci-Fi",TRUE,Sony Pictures,11
+2013,tt1800241,American Hustle,ok-disagree,ok,PASS,40000000,USA,"Crime, Drama",TRUE,Sony Pictures,92
+2013,tt1322269,August: Osage County,ok,ok,PASS,25000000,USA,Drama,TRUE,The Weinstein Company,66
+2013,tt1559547,Beautiful Creatures,ok,ok,PASS,50000000,USA,"Drama, Fantasy, Romance",TRUE,Warner Bros. Pictures,47
+2013,tt2334873,Blue Jasmine,ok-disagree,ok,PASS,18000000,USA,Drama,TRUE,Sony Pictures Classics,90
+2013,tt1535109,Captain Phillips,notalk,notalk,FAIL,55000000,USA,"Biography, Drama, Thriller",TRUE,Sony Pictures,93
+2013,tt1939659,Carrie,ok,ok,PASS,30000000,USA,"Drama, Horror",TRUE,Sony Pictures,50
+2013,tt1985966,Cloudy with a Chance of Meatballs 2,nowomen-disagree,nowomen,FAIL,78000000,USA,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",TRUE,Sony Pictures,71
+2013,tt1690953,Despicable Me 2,ok,ok,PASS,76000000,"USA, France, Japan","Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",TRUE,Universal Pictures,74
+2013,tt2229499,Don Jon,dubious-disagree,dubious,FAIL,5500000,USA,"Comedy, Drama, Romance",TRUE,Relativity Media,79
+2013,tt1535108,Elysium,ok-disagree,ok,PASS,120000000,USA,"Action, Drama, Sci-Fi",TRUE,TriStar Pictures,66
+2013,tt1731141,Ender&#39;s Game,men,men,FAIL,110000000,USA,"Action, Adventure, Fantasy, Sci-Fi",TRUE,Summit Entertainment,61
+2013,tt0848537,Epic,ok-disagree,ok,PASS,100000000,USA,"Animation, Adventure, Family, Fantasy, Thriller",TRUE,Twentieth Century Fox,65
+2013,tt0765446,Escape from Planet Earth,ok,ok,PASS,40000000,"USA, Canada","Animation, Adventure, Comedy, Family, Sci-Fi",TRUE,The Weinstein Co.,34
+2013,tt1211956,Escape Plan,men,men,FAIL,70000000,USA,"Action, Crime, Mystery, Sci-Fi, Thriller",TRUE,Summit Entertainment,50
+2013,tt1288558,Evil Dead,ok-disagree,ok,PASS,17000000,USA,"Fantasy, Horror, Thriller",TRUE,TriStar Pictures,63
+2013,tt1905041,Fast and Furious 6,ok-disagree,ok,PASS,160000000,"USA, Japan, Spain, UK","Action, Crime, Thriller",TRUE,Universal Pictures,70
+2013,tt2294629,Frozen,ok,ok,PASS,150000000,USA,"Animation, Adventure, Comedy, Family, Fantasy, Musical",TRUE,Walt Disney Pictures,90
+2013,tt1583421,G.I. Joe: Retaliation,ok-disagree,ok,PASS,140000000,USA,"Action, Adventure, Sci-Fi, Thriller",TRUE,Paramount Pictures,29
+2013,tt1321870,Gangster Squad,notalk,notalk,FAIL,60000000,USA,"Action, Crime, Drama, Thriller",TRUE,Warner Bros.,32
+2013,tt2425486,Gloria,ok,ok,PASS,30000000,"Chile, Spain","Comedy, Drama, Romance",FALSE,Roadside Attractions,99
+2013,tt1454468,Gravity,nowomen-disagree,nowomen,FAIL,110000000,"UK, USA","Drama, Sci-Fi, Thriller",TRUE,Warner Bros. Pictures,96
+2013,tt2191701,Grown Ups 2,men-disagree,men,FAIL,80000000,USA,Comedy,TRUE,Sony Pictures,7
+2013,tt1428538,Hansel &amp; Gretel: Witch Hunters,ok,ok,PASS,50000000,"Germany, USA","Action, Fantasy, Horror",TRUE,Paramount Pictures/MGM,15
+2013,tt1798709,Her,men-disagree,men,FAIL,23000000,USA,"Drama, Romance, Sci-Fi",TRUE,Warner Bros. Pictures,94
+2013,tt2024432,Identity Thief,men-disagree,men,FAIL,35000000,USA,"Adventure, Comedy, Crime, Drama",TRUE,Universal Pictures,19
+2013,tt2226417,Insidious: Chapter 2,men,men,FAIL,5000000,"USA, Canada","Horror, Mystery, Thriller",TRUE,FilmDistrict,39
+2013,tt1300854,Iron Man 3,dubious-disagree,dubious,FAIL,200000000,USA,"Action, Adventure, Sci-Fi",TRUE,Walt Disney Pictures,79
+2013,tt1351685,Jack the Giant Slayer,nowomen-disagree,nowomen,FAIL,195000000,USA,"Adventure, Fantasy",TRUE,Warner Bros.,52
+2013,tt1650554,Kick-Ass 2,ok,ok,PASS,28000000,"USA, UK","Action, Comedy, Crime",TRUE,Universal Pictures,32
+2013,tt1204975,Last Vegas,notalk,notalk,FAIL,28000000,USA,"Comedy, Drama",TRUE,CBS Films,45
+2013,tt1327773,Lee Daniels&#39; The Butler,ok,ok,PASS,30000000,USA,"Biography, Drama",TRUE,The Weinstein Company,71
+2013,tt2002718,Machete Kills,ok,ok,PASS,2000000,"USA, Russia","Action, Crime, Sci-Fi, Thriller",TRUE,Open Road,30
+2013,tt2023587,Mama,ok,ok,PASS,15000000,"Canada, Spain","Horror, Thriller",FALSE,Universal Pictures,65
+2013,tt0770828,Man of Steel,ok-disagree,ok,PASS,225000000,"USA, UK","Action, Adventure, Sci-Fi",TRUE,Warner Bros. Pictures,56
+2013,tt1821549,Nebraska,ok-disagree,ok,PASS,12000000,USA,"Adventure, Comedy, Drama",TRUE,Paramount Pictures,91
+2013,tt1670345,Now You See Me,notalk-disagree,notalk,FAIL,75000000,"USA, France","Crime, Mystery, Thriller",TRUE,Lionsgate Films,50
+2013,tt1483013,Oblivion,men-disagree,men,FAIL,120000000,USA,"Action, Adventure, Sci-Fi",TRUE,Universal Pictures,52
+2013,tt2302755,Olympus Has Fallen,notalk,notalk,FAIL,70000000,USA,"Action, Thriller",TRUE,FilmDistrict,49
+2013,tt1623205,Oz the Great and Powerful,ok-disagree,ok,PASS,200000000,USA,"Adventure, Family, Fantasy",TRUE,Walt Disney Pictures,59
+2013,tt1663662,Pacific Rim,notalk-disagree,notalk,FAIL,190000000,USA,"Action, Adventure, Sci-Fi",TRUE,Warner Bros. Pictures,72
+2013,tt1980209,Pain &amp; Gain,notalk,notalk,FAIL,26000000,USA,"Action, Comedy, Crime, Drama, Thriller",TRUE,Paramount Studios,51
+2013,tt1904996,Parker,ok,ok,PASS,35000000,USA,"Action, Crime, Thriller",TRUE,FilmDistrict,41
+2013,tt1699755,Peeples,dubious,dubious,FAIL,15000000,USA,"Comedy, Romance",TRUE,Lionsgate Films,37
+2013,tt1854564,Percy Jackson: Sea of Monsters,ok,ok,PASS,90000000,USA,"Adventure, Family, Fantasy, Thriller",TRUE,20th Century Fox,42
+2013,tt1392214,Prisoners,ok,ok,PASS,46000000,USA,"Crime, Drama, Mystery, Thriller",TRUE,Warner Bros.,80
+2013,tt0790736,R.I.P.D.,notalk,notalk,FAIL,130000000,USA,"Action, Adventure, Comedy, Fantasy, Sci-Fi",TRUE,Universal Pictures,13
+2013,tt1821694,Red 2,ok,ok,PASS,84000000,"USA, France, Canada","Action, Comedy, Crime, Thriller",TRUE,Lionsgate Films,44
+2013,tt1411250,Riddick,notalk-disagree,notalk,FAIL,38000000,"Canada, USA","Action, Adventure, Sci-Fi, Thriller",TRUE,Universal Classics,57
+2013,tt2364841,Runner Runner,nowomen,nowomen,FAIL,30000000,USA,"Crime, Thriller",TRUE,20th Century Fox,8
+2013,tt1979320,Rush,notalk,notalk,FAIL,38000000,"UK, Germany, USA","Action, Biography, Drama, Sport",TRUE,Universal Pictures,89
+2013,tt1702439,Safe Haven,ok,ok,PASS,28000000,USA,"Drama, Romance, Thriller",TRUE,Relativity Media,13
+2013,tt2140373,Saving Mr. Banks,ok,ok,PASS,35000000,"USA, UK, Australia","Biography, Comedy, Drama, Family, Music",TRUE,Walt Disney Pictures,79
+2013,tt2053463,Side Effects,ok,ok,PASS,30000000,USA,"Crime, Drama, Mystery, Thriller",TRUE,Open Road Films,82
+2013,tt1408101,Star Trek Into Darkness,notalk-disagree,notalk,FAIL,190000000,USA,"Action, Adventure, Sci-Fi",TRUE,Paramount,84
+2013,tt1572315,Texas Chainsaw 3D,ok-disagree,ok,PASS,20000000,USA,"Horror, Thriller",TRUE,Lionsgate Films,18
+2013,tt1931435,The Big Wedding,ok,ok,PASS,32500000,USA,"Comedy, Drama, Romance",TRUE,Lionsgate Films,7
+2013,tt0816442,The Book Thief,ok,ok,PASS,19000000,"USA, Germany","Drama, War",TRUE,20th Century Fox,47
+2013,tt1911644,The Call,ok,ok,PASS,13000000,USA,"Crime, Drama, Horror, Thriller",TRUE,Sony Pictures,45
+2013,tt1457767,The Conjuring,ok,ok,PASS,20000000,USA,"Horror, Mystery, Thriller",TRUE,Warner Bros. Pictures,85
+2013,tt2193215,The Counselor,ok,ok,PASS,25000000,"UK, USA","Crime, Drama, Thriller",TRUE,Fox Films,34
+2013,tt0481499,The Croods,men-disagree,men,FAIL,135000000,USA,"Animation, Action, Adventure, Comedy, Family, Fantasy",TRUE,20th Century Fox,71
+2013,tt2404311,The Family,men,men,FAIL,30000000,"USA, France","Comedy, Crime, Thriller",TRUE,Relativity Media,28
+2013,tt1837703,The Fifth Estate,notalk,notalk,FAIL,26000000,"USA, India, Belgium","Biography, Drama, Thriller",TRUE,Walt Disney Pictures,36
+2013,tt2005374,The Frozen Ground,nowomen-disagree,nowomen,FAIL,19200000,USA,"Crime, Drama, Mystery, Thriller",TRUE,The Film Arcade,60
+2013,tt1343092,The Great Gatsby,dubious,dubious,FAIL,190000000,"Australia, USA","Drama, Romance",TRUE,Warner Bros. Pictures,48
+2013,tt1951261,The Hangover part 3,men,men,FAIL,103000000,USA,"Adventure, Comedy, Crime",TRUE,Warner Bros. Pictures,20
+2013,tt2404463,The Heat,ok,ok,PASS,43000000,USA,"Action, Comedy, Crime",TRUE,20th Century Fox,65
+2013,tt1170358,The Hobbit: The Desolation of Smaug,notalk-disagree,notalk,FAIL,250000000,"USA, New Zealand","Adventure, Fantasy",TRUE,Warner Bros.,74
+2013,tt1517260,The Host,dubious-disagree,dubious,FAIL,50000000,"USA, Switzerland","Action, Adventure, Drama, Romance, Sci-Fi, Thriller",TRUE,Open Road Films,10
+2013,tt1951264,The Hunger Games: Catching Fire,ok,ok,PASS,130000000,USA,"Action, Adventure, Sci-Fi, Thriller",TRUE,Lionsgate Films,89
+2013,tt0790628,The Incredible Burt Wonderstone,notalk,notalk,FAIL,32000000,USA,"Adventure, Comedy, Fantasy",TRUE,Warner Bros. Pictures,37
+2013,tt2234155,The Internship,notalk,notalk,FAIL,58000000,USA,Comedy,TRUE,20th Century Fox,35
+2013,tt2034139,The Last Exorcism Part II,ok,ok,PASS,4000000,"France, USA","Drama, Horror, Thriller",TRUE,CBS Films,15
+2013,tt1210819,The Lone Ranger,notalk,notalk,FAIL,275000000,USA,"Action, Adventure, Western",TRUE,Walt Disney Pictures,31
+2013,tt1538403,The Mortal Instruments: City of Bones,ok-disagree,ok,PASS,60000000,"USA, Germany, Canada, UK","Action, Fantasy, Horror, Mystery, Romance",TRUE,Sony Pictures,14
+2013,tt2184339,The Purge,dubious,dubious,FAIL,3000000,"USA, France","Horror, Thriller",TRUE,Universal Pictures,39
+2013,tt2017020,The Smurfs 2,ok,ok,PASS,110000000,"USA, France, Canada, Belgium","Animation, Adventure, Comedy, Family, Fantasy",TRUE,Sony Pictures,14
+2013,tt1758795,The To Do List,ok,ok,PASS,1500000,USA,"Comedy, Romance",TRUE,CBS Films,54
+2013,tt1727388,The Way Way Back,ok-disagree,ok,PASS,5000000,USA,"Comedy, Drama",TRUE,Fox Searchlight,84
+2013,tt0993846,The Wolf of Wall Street,notalk-disagree,notalk,FAIL,100000000,USA,"Biography, Crime, Drama",TRUE,Paramount Studios,78
+2013,tt1430132,The Wolverine,ok,ok,PASS,115000000,"USA, UK","Action, Adventure, Sci-Fi",TRUE,20th Century Fox,71
+2013,tt1213663,The World&#39;s End,men-disagree,men,FAIL,20000000,"UK, USA, Japan","Action, Comedy, Sci-Fi",TRUE,Focus Features,89
+2013,tt1245492,This Is the End,notalk,notalk,FAIL,32000000,USA,"Comedy, Fantasy",TRUE,Sony Pictures,83
+2013,tt1981115,Thor: The Dark World,dubious-disagree,dubious,FAIL,170000000,USA,"Action, Adventure, Fantasy",TRUE,Walt Disney Pictures,66
+2013,tt1924429,Trance,nowomen,nowomen,FAIL,16000000,"UK, USA, France","Crime, Drama, Mystery, Thriller",TRUE,20th Century Fox,68
+2013,tt1860353,Turbo,dubious-disagree,dubious,FAIL,135000000,USA,"Animation, Adventure, Comedy, Family, Sci-Fi, Sport",TRUE,DreamWorks Animation,67
+2013,tt1588173,Warm Bodies,men-disagree,men,FAIL,30000000,"USA, Canada","Comedy, Horror, Romance",TRUE,Lionsgate Films,81
+2013,tt1723121,We&#39;re the Millers,ok,ok,PASS,37000000,USA,"Comedy, Crime",TRUE,Warner Bros. Pictures,48
+2013,tt2334879,White House Down,men,men,FAIL,150000000,USA,"Action, Drama, Thriller",TRUE,Sony Pictures,51
+2013,tt0816711,World War Z,dubious-disagree,dubious,FAIL,190000000,"USA, UK, Malta","Action, Adventure, Horror, Sci-Fi, Thriller",TRUE,Paramount Pictures,66
+2012,tt1611224,Abraham Lincoln: Vampire Hunter,dubious-disagree,dubious,FAIL,67500000,"USA, Russia","Action, Fantasy, Horror, Western",TRUE,20th Century Fox,35
+2012,tt1591479,Act of Valor,nowomen,nowomen,FAIL,12000000,USA,"Action, Adventure, Drama, Thriller, War",TRUE,Relativity Media,26
+2012,tt1602620,Amour,dubious-disagree,dubious,FAIL,9700000,"Austria, France, Germany","Drama, Romance",FALSE,Sony Pictures Classics,93
+2012,tt1781769,Anna Karenina,men-disagree,men,FAIL,49000000,UK,"Drama, Romance",FALSE,Focus Features,63
+2012,tt1024648,Argo,ok-disagree,ok,PASS,44500000,"USA, UK","Biography, Drama, Thriller",TRUE,Warner Bros. Pictures,96
+2012,tt1440129,Battleship,notalk-disagree,notalk,FAIL,209000000,USA,"Action, Adventure, Sci-Fi, Thriller",TRUE,Universal,34
+2012,tt2125435,Beasts of the Southern Wild,dubious-disagree,dubious,FAIL,1800000,USA,"Adventure, Drama, Fantasy",TRUE,Fox Searchlight,87
+2012,tt1758575,Blue Like Jazz,ok,ok,PASS,1200000,USA,"Comedy, Drama",TRUE,Roadside Attractions,38
+2012,tt1217209,Brave,ok,ok,PASS,185000000,"USA, UK","Animation, Adventure, Comedy, Family, Fantasy",TRUE,Walt Disney Pictures,79
+2012,tt1308729,Bullet to the Head,nowomen,nowomen,FAIL,55000000,USA,"Action, Crime, Thriller",TRUE,Warner Bros. Pictures,46
+2012,tt1991245,Chernobyl Diaries,notalk,notalk,FAIL,1000000,USA,"Horror, Mystery, Thriller",TRUE,Warner Bros. Pictures,19
+2012,tt1706593,Chronicle,notalk,notalk,FAIL,12000000,USA,"Drama, Sci-Fi, Thriller",TRUE,20th Century Fox,85
+2012,tt1371111,Cloud Atlas,ok,ok,PASS,102000000,"Germany, USA, Hong Kong, Singapore, China","Action, Drama, Mystery, Sci-Fi",TRUE,Warner Bros. Pictures,67
+2012,tt1524137,Contraband,ok,ok,PASS,25000000,"USA, UK, France","Action, Crime, Drama, Thriller",TRUE,Universal Pictures,51
+2012,tt1853728,Django Unchained,notalk-disagree,notalk,FAIL,100000000,USA,"Drama, Western",TRUE,The Weinstein Co.,86
+2012,tt1907668,Flight,dubious-disagree,dubious,FAIL,31000000,"USA, United Arab Emirates","Drama, Thriller",TRUE,Paramount Pictures,78
+2012,tt1142977,Frankenweenie,nowomen-disagree,nowomen,FAIL,39000000,USA,"Animation, Comedy, Family, Horror, Sci-Fi",TRUE,Walt Disney Pictures,87
+2012,tt2243973,Hannibal,ok,ok,PASS,87000000,USA,"Crime, Drama, Horror, Mystery, Thriller",TRUE,null,-1
+2012,tt0837562,Hotel Transylvania,ok,ok,PASS,85000000,USA,"Animation, Comedy, Family, Fantasy, Horror",TRUE,Sony Pictures,44
+2012,tt0790724,Jack Reacher,notalk,notalk,FAIL,60000000,USA,"Action, Crime, Thriller",TRUE,Paramount Pictures,63
+2012,tt2106476,Jagten,men,men,FAIL,3450000,"Denmark, Sweden",Drama,FALSE,Magnolia Pictures,92
+2012,tt0401729,John Carter,ok-disagree,ok,PASS,275000000,USA,"Action, Adventure, Sci-Fi",TRUE,Walt Disney Pictures,52
+2012,tt1764234,Killing Them Softly,nowomen,nowomen,FAIL,15000000,USA,"Crime, Thriller",TRUE,The Weinstein Co.,74
+2012,tt1707386,Les Miserables,ok-disagree,ok,PASS,65000000,"UK, USA","Drama, History, Musical, Romance, War",TRUE,Universal Pictures,69
+2012,tt0454876,Life of Pi,notalk-disagree,notalk,FAIL,120000000,"USA, Taiwan, UK, Canada","Adventure, Drama, Fantasy",TRUE,20th Century Fox,86
+2012,tt0443272,Lincoln,ok-disagree,ok,PASS,65000000,"USA, India","Biography, Drama, History, War",TRUE,Dreamworks Pictures,89
+2012,tt1277953,Madagascar 3: Europe&#39;s Most Wanted,men-disagree,men,FAIL,145000000,USA,"Animation, Adventure, Comedy, Family",TRUE,Paramount/Dreamworks,79
+2012,tt1409024,Men in Black III,notalk,notalk,FAIL,215000000,"USA, United Arab Emirates","Action, Adventure, Comedy, Sci-Fi",TRUE,Sony Pictures,68
+2012,tt1667353,Mirror Mirror,dubious,dubious,FAIL,85000000,"USA, Canada","Adventure, Comedy, Drama, Family, Fantasy",TRUE,Relativity Media,50
+2012,tt1748122,Moonrise Kingdom,ok,ok,PASS,16000000,USA,"Adventure, Comedy, Drama, Romance",TRUE,Focus Features,93
+2012,tt2094064,Much Ado About Nothing,dubious-disagree,dubious,FAIL,8000000,USA,"Comedy, Drama, Romance",TRUE,Roadside Attractions,86
+2012,tt1598828,One for the Money,ok,ok,PASS,42000000,USA,"Action, Comedy, Crime, Romance, Thriller",TRUE,Lionsgate Films,2
+2012,tt2109184,Paranormal Activity 4,ok,ok,PASS,5000000,USA,"Horror, Mystery, Thriller",TRUE,Paramount Pictures,24
+2012,tt1623288,ParaNorman,notalk-disagree,notalk,FAIL,60000000,USA,"Animation, Adventure, Comedy, Family, Fantasy",TRUE,Focus Features,88
+2012,tt1047540,Parental Guidance,ok,ok,PASS,25000000,USA,"Comedy, Family",TRUE,20th Century Fox,17
+2012,tt1716777,People Like Us,ok,ok,PASS,16000000,USA,"Comedy, Drama",TRUE,Dreamworks Pictures,53
+2012,tt1981677,Pitch Perfect,ok,ok,PASS,17000000,USA,"Comedy, Music, Romance",TRUE,Universal Studios,80
+2012,tt1547234,Premium Rush,ok,ok,PASS,35000000,USA,"Action, Crime, Thriller",TRUE,Columbia Pictures,74
+2012,tt1234719,Red Dawn,notalk-disagree,notalk,FAIL,65000000,USA,"Action, Sci-Fi, Thriller",TRUE,Film District,13
+2012,tt0485985,Red Tails,men,men,FAIL,58000000,USA,"Action, Adventure, Drama, History, War",TRUE,20th Century Fox,40
+2012,tt1446192,Rise of the Guardians,notalk-disagree,notalk,FAIL,145000000,USA,"Animation, Action, Adventure, Comedy, Family, Fantasy",TRUE,Paramount Studios,74
+2012,tt1336608,Rock of Ages,ok,ok,PASS,70000000,USA,"Comedy, Drama, Musical, Romance",TRUE,New Line Cinema,42
+2012,tt1656190,Safe,notalk-disagree,notalk,FAIL,33000000,USA,"Action, Crime, Thriller",TRUE,Lionsgate Films,58
+2012,tt1862079,Safety Not Guaranteed,ok-disagree,ok,PASS,750000,USA,"Comedy, Drama, Romance",TRUE,Film District,90
+2012,tt1931533,Seven Psychopaths,notalk-disagree,notalk,FAIL,13500000,"UK, USA","Comedy, Crime",TRUE,CBS Films,82
+2012,tt0938330,Silent Hill: Revelation 3D,ok,ok,PASS,20000000,"Canada, France, USA",Horror,TRUE,Open Road Films,8
+2012,tt1045658,Silver Linings Playbook,ok,ok,PASS,21000000,USA,"Comedy, Drama, Romance",TRUE,The Weinstein Company,92
+2012,tt1922777,Sinister,men,men,FAIL,3000000,"USA, UK","Horror, Mystery, Thriller",TRUE,Lionsgate Films,64
+2012,tt1074638,Skyfall,dubious-disagree,dubious,FAIL,200000000,"UK, USA","Action, Adventure, Thriller",TRUE,MGM,92
+2012,tt1735898,Snow White and the Huntsman,ok,ok,PASS,170000000,USA,"Action, Adventure, Drama, Fantasy",TRUE,Universal Pictures,49
+2012,tt1876451,Sparkle,ok,ok,PASS,10000000,USA,"Drama, Music",TRUE,Sony Pictures,57
+2012,tt2101441,Spring Breakers,ok,ok,PASS,5000000,"USA, France","Comedy, Crime, Drama",TRUE,A24 Films,66
+2012,tt1800741,Step Up Revolution,ok,ok,PASS,33000000,USA,"Drama, Music, Romance",TRUE,Summit Entertainment,42
+2012,tt1874789,Supporting Characters,men,men,FAIL,60000,USA,Comedy,TRUE,Independent Pictures,86
+2012,tt1637725,Ted,men-disagree,men,FAIL,50000000,USA,"Comedy, Fantasy",TRUE,Universal Pictures,68
+2012,tt1232200,That&#39;s My Boy,notalk,notalk,FAIL,67500000,USA,Comedy,TRUE,Sony Pictures,20
+2012,tt0948470,The Amazing Spider-Man,men-disagree,men,FAIL,220000000,USA,"Action, Adventure, Sci-Fi",TRUE,Sony Pictures,72
+2012,tt0848228,The Avengers,notalk,notalk,FAIL,60000000,USA,"Action, Adventure, Sci-Fi",TRUE,Walt Disney Pictures,92
+2012,tt1345836,The Dark Knight Rises,notalk-disagree,notalk,FAIL,275000000,"UK, USA","Action, Thriller",TRUE,Warner Bros. Pictures,87
+2012,tt1560985,The Devil Inside,ok-disagree,ok,PASS,1000000,USA,Horror,TRUE,Paramount Pictures,6
+2012,tt1645170,The Dictator,notalk,notalk,FAIL,65000000,USA,Comedy,TRUE,Paramount Pictures,57
+2012,tt1764651,The Expendables 2,ok-disagree,ok,PASS,100000000,"USA, Germany","Action, Adventure, Thriller",TRUE,Lionsgate,67
+2012,tt1601913,The Grey,nowomen-disagree,nowomen,FAIL,25000000,USA,"Action, Adventure, Drama, Thriller",TRUE,Open Road Films,79
+2012,tt0903624,The Hobbit: An Unexpected Journey,nowomen-disagree,nowomen,FAIL,250000000,"USA, New Zealand","Adventure, Family, Fantasy",TRUE,Warner Bros.,65
+2012,tt1392170,The Hunger Games,ok-disagree,ok,PASS,80000000,USA,"Action, Adventure, Sci-Fi, Thriller",TRUE,Lionsgate,84
+2012,tt1649419,The Impossible,men,men,FAIL,40000000,"Spain, USA","Drama, History, Thriller",TRUE,Lionsgate Films,81
+2012,tt1258972,The Man with the Iron Fists,notalk,notalk,FAIL,15000000,"USA, Hong Kong",Action,TRUE,Universal Studios,51
+2012,tt1560747,The Master,notalk-disagree,notalk,FAIL,37500000,USA,Drama,TRUE,The Weinstein Company,84
+2012,tt1430626,The Pirates! Band of Misfits,notalk,notalk,FAIL,55000000,"UK, USA","Animation, Adventure, Comedy, Family",TRUE,Sony Pictures,86
+2012,tt1817273,The Place Beyond the Pines,notalk-disagree,notalk,FAIL,15000000,USA,"Crime, Drama, Thriller",TRUE,Focus Features,80
+2012,tt1673434,The Twilight Saga: Breaking Dawn - Part 2,dubious-disagree,dubious,FAIL,136200000,USA,"Adventure, Drama, Fantasy, Romance",TRUE,Lionsgate/Summit Entertainment,49
+2012,tt1606389,The Vow,ok,ok,PASS,8738320,USA,"Drama, Romance",TRUE,Sony Pictures,31
+2012,tt1298649,The Watch,men,men,FAIL,55000000,USA,"Action, Comedy, Horror, Sci-Fi",TRUE,20th Century Fox,17
+2012,tt1596365,The Woman in Black,notalk,notalk,FAIL,15000000,"UK, Canada, Sweden","Drama, Fantasy, Horror, Thriller",FALSE,CBS Films,66
+2012,tt1840417,The Words,notalk,notalk,FAIL,6000000,USA,"Drama, Mystery, Romance, Thriller",TRUE,CBS Films,24
+2012,tt1621045,Think Like a Man,ok,ok,PASS,12000000,USA,"Comedy, Romance",TRUE,Sony Screen Gems,54
+2012,tt1859650,To Rome With Love,men-disagree,men,FAIL,21500000,"USA, Italy, Spain","Comedy, Music, Romance",TRUE,Sony Pictures Classics,45
+2012,tt1386703,Total Recall,notalk-disagree,notalk,FAIL,125000000,"USA, Canada","Action, Adventure, Mystery, Sci-Fi, Thriller",TRUE,Sony Pictures,31
+2012,tt1496025,Underworld: Awakening,ok,ok,PASS,70000000,"USA, Canada","Action, Fantasy, Horror",TRUE,Screen Gems,27
+2012,tt1655460,Wanderlust,ok,ok,PASS,32500000,USA,"Comedy, Romance",TRUE,Universal Pictures,59
+2012,tt1586265,What to Expect When You&#39;re Expecting,ok,ok,PASS,37500000,USA,"Comedy, Drama, Romance",TRUE,Lionsgate Films,23
+2012,tt1870529,Won&#39;t Back Down,ok,ok,PASS,19000000,USA,Drama,TRUE,20th Century Fox,35
+2012,tt1646987,Wrath of the Titans,notalk-disagree,notalk,FAIL,150000000,"Spain, USA","Action, Adventure, Fantasy",TRUE,Warner Bros.,26
+2012,tt1772341,Wreck-It Ralph,ok-disagree,ok,PASS,165000000,USA,"Animation, Adventure, Comedy, Family, Fantasy",TRUE,Walt Disney Pictures,87
+2012,tt1790885,Zero Dark Thirty,ok-disagree,ok,PASS,52500000,"USA, United Arab Emirates","Drama, Thriller",TRUE,Columbia Pictures,91
+2011,tt1622547,30 Minutes or Less,notalk,notalk,FAIL,28000000,USA,"Action, Comedy, Crime",TRUE,Sony Pictures,44
+2011,tt1306980,50/50,men-disagree,men,FAIL,8000000,USA,"Comedy, Drama, Romance",TRUE,Summit Entertainment,93
+2011,tt1571222,A Dangerous Method,dubious,dubious,FAIL,20000000,"UK, Germany, Canada, Switzerland, USA","Biography, Drama, Romance, Thriller",TRUE,Sony Pictures Classics,78
+2011,tt1422136,A Lonely Place to Die,ok,ok,PASS,4000000,UK,"Adventure, Crime, Thriller",FALSE,IFC Films,74
+2011,tt1268799,A Very Harold &amp; Kumar 3D Christmas,notalk,notalk,FAIL,20000000,USA,"Adventure, Comedy",TRUE,Warner Bros. Pictures,68
+2011,tt1549572,Another Earth,ok,ok,PASS,175000,USA,"Drama, Romance, Sci-Fi",TRUE,Fox Searchlight,66
+2011,tt1772240,Apollo 18,nowomen,nowomen,FAIL,5000000,"USA, Canada","Horror, Mystery, Sci-Fi, Thriller",TRUE,The Weinstein Company,24
+2011,tt1430607,Arthur Christmas,notalk,notalk,FAIL,85000000,"UK, USA","Animation, Adventure, Comedy, Family, Fantasy",TRUE,Sony Pictures,92
+2011,tt1478964,Attack the Block,ok-disagree,ok,PASS,13000000,"UK, France, USA","Action, Comedy, Sci-Fi, Thriller",TRUE,Screen Gems,90
+2011,tt1284575,Bad Teacher,ok-disagree,ok,PASS,19000000,USA,"Comedy, Romance",TRUE,Sony Pictures,45
+2011,tt1217613,Battle: Los Angeles,notalk-disagree,notalk,FAIL,70000000,USA,"Action, Sci-Fi",TRUE,Sony Pictures/Columbia Pictures,36
+2011,tt1152398,Beastly,notalk,notalk,FAIL,17000000,USA,"Drama, Fantasy, Romance",TRUE,CBS Films,20
+2011,tt1629705,Blackthorn,notalk,notalk,FAIL,4500000,"Spain, France, Bolivia, UK","Action, Adventure, Western",FALSE,Magnolia Pictures,75
+2011,tt1478338,Bridesmaids,ok-disagree,ok,PASS,32500000,USA,"Comedy, Romance",TRUE,Universal Studios,90
+2011,tt0458339,Captain America: The First Avenger,notalk-disagree,notalk,FAIL,140000000,USA,"Action, Adventure, Sci-Fi",TRUE,Paramount Pictures,80
+2011,tt1216475,Cars 2,men,men,FAIL,200000000,USA,"Animation, Adventure, Comedy, Family, Sport",TRUE,Walt Disney Pictures/PIXAR,38
+2011,tt1684628,Circumstance,ok,ok,PASS,900000,"France, USA, Iran",Drama,TRUE,Roadside Attractions,86
+2011,tt1657507,Colombiana,notalk,notalk,FAIL,40000000,France,"Action, Drama, Thriller",FALSE,Sony Pictures,29
+2011,tt0816462,Conan the Barbarian,dubious-disagree,dubious,FAIL,20000000,USA,"Action, Adventure, Fantasy",TRUE,Lionsgate,25
+2011,tt1598778,Contagion,ok-disagree,ok,PASS,60000000,"USA, United Arab Emirates","Action, Drama, Thriller",TRUE,Warner Bros.,84
+2011,tt1372686,Coriolanus,men,men,FAIL,10000000,UK,"Drama, Thriller, War",FALSE,The Weinstein Company,92
+2011,tt0409847,Cowboys &amp; Aliens,notalk,notalk,FAIL,163000000,"USA, India","Action, Sci-Fi, Thriller, Western",TRUE,Universal Pictures,45
+2011,tt1701990,Detention,ok,ok,PASS,10000000,USA,"Comedy, Horror, Mystery, Sci-Fi, Thriller",TRUE,IDP Distribution,40
+2011,tt1650043,Diary of a Wimpy Kid: Rodrick Rules,notalk,notalk,FAIL,18000000,USA,"Comedy, Family",TRUE,20th Century Fox,47
+2011,tt1564349,Dolphin Tale,men,men,FAIL,37000000,"Canada, USA","Drama, Family",TRUE,Warner Bros. Pictures,81
+2011,tt1462041,Dream House,ok,ok,PASS,50000000,"USA, Canada","Drama, Mystery, Thriller",TRUE,Universal Pictures,6
+2011,tt0780504,Drive,dubious-disagree,dubious,FAIL,15000000,USA,"Crime, Drama",TRUE,FilmDistrict,92
+2011,tt1596343,Fast Five,ok-disagree,ok,PASS,125000000,"USA, Brazil","Action, Crime, Thriller",TRUE,Universal Pictures,77
+2011,tt1622979,Final Destination 5,men,men,FAIL,40000000,"USA, Canada, Singapore, Hong Kong",Horror,TRUE,Warner Bros.,62
+2011,tt1068242,Footloose,ok,ok,PASS,24000000,USA,"Comedy, Drama, Music, Romance",TRUE,Paramount Studios,68
+2011,tt1438176,Fright Night,dubious,dubious,FAIL,30000000,USA,"Comedy, Horror",TRUE,Walt Disney Pictures,72
+2011,tt1133985,Green Lantern,notalk-disagree,notalk,FAIL,200000000,USA,"Action, Adventure, Sci-Fi",TRUE,Warner Bros. Pictures,26
+2011,tt0480687,Hall Pass,men,men,FAIL,36000000,USA,"Comedy, Romance",TRUE,Warner Bros. Pictures,33
+2011,tt0993842,Hanna,ok,ok,PASS,30000000,"USA, UK, Germany","Action, Drama, Thriller",TRUE,Focus Features,71
+2011,tt1201607,Harry Potter and the Deathly Hallows: Part 2,notalk-disagree,notalk,FAIL,125000000,"USA, UK","Adventure, Drama, Fantasy, Mystery",TRUE,Warner Bros. Pictures,96
+2011,tt1506999,Haywire,nowomen-disagree,nowomen,FAIL,23000000,"Ireland, USA","Action, Drama, Thriller",TRUE,Relativity Media,80
+2011,tt1403177,Hesher,notalk,notalk,FAIL,7000000,USA,"Comedy, Drama",TRUE,Newmarket Films,53
+2011,tt1562568,Higher Ground,ok,ok,PASS,1800000,USA,Drama,TRUE,Sony Pictures Classics,81
+2011,tt1640459,Hobo with a Shotgun,nowomen,nowomen,FAIL,3000000,Canada,"Action, Comedy, Horror, Thriller",FALSE,Magnolia Releasing,66
+2011,tt1411704,Hop,men,men,FAIL,63000000,"USA, India, Malaysia, Taiwan, Canada, UK","Animation, Adventure, Comedy, Family, Fantasy",TRUE,Universal Pictures,25
+2011,tt1499658,Horrible Bosses,ok,ok,PASS,35000000,USA,"Comedy, Crime",TRUE,Warner Bros. Pictures,69
+2011,tt0970179,Hugo,dubious,dubious,FAIL,180000000,"USA, UK, France","Adventure, Drama, Family, Fantasy, Mystery, Romance",TRUE,Paramount Studios,93
+2011,tt1464540,I Am Number Four,notalk,notalk,FAIL,50000000,"USA, India","Action, Adventure, Sci-Fi, Thriller",TRUE,DreamWorks Studios,33
+2011,tt1253864,Immortals,men,men,FAIL,75000000,USA,"Action, Drama, Fantasy, Romance",TRUE,Relativity Media,38
+2011,tt1637688,In Time,notalk,notalk,FAIL,35000000,USA,"Action, Crime, Drama, Sci-Fi, Thriller",TRUE,20th Century Fox,37
+2011,tt1606618,Iris,ok,ok,PASS,5500000,"Finland, Sweden","Drama, Family, History",FALSE,Langfilm,-1
+2011,tt1410063,Jin ling shi san chai,ok,ok,PASS,100000000,"China, Hong Kong","Drama, History, Romance, War",FALSE,Wrekin Hill Entertainment,42
+2011,tt1634122,Johnny English Reborn,dubious,dubious,FAIL,45000000,"USA, France, UK","Action, Adventure, Comedy, Crime",TRUE,Universal Pictures,38
+2011,tt1640484,Jumping the Broom,ok,ok,PASS,7000000,USA,"Comedy, Drama",TRUE,Sony Pictures,57
+2011,tt1564367,Just Go with It,dubious,dubious,FAIL,80000000,USA,"Comedy, Romance",TRUE,Sony Pictures,18
+2011,tt1788391,Kill List,dubious,dubious,FAIL,800000,UK,"Crime, Drama, Horror, Thriller",FALSE,IFC Films,77
+2011,tt1448755,Killer Elite,nowomen,nowomen,FAIL,70000000,"UK, Australia","Action, Crime, Thriller",FALSE,Open Road Films,26
+2011,tt1302011,Kung Fu Panda 2,ok,ok,PASS,150000000,USA,"Animation, Action, Adventure, Comedy, Family, Fantasy",TRUE,Paramount Studios/Dreamworks,81
+2011,tt1508675,Le Havre,dubious,dubious,FAIL,5500000,"Finland, France, Germany","Comedy, Drama",FALSE,Janus Films,99
+2011,tt1758692,Like Crazy,ok-disagree,ok,PASS,250000,USA,"Drama, Romance",TRUE,Paramount Pictures,71
+2011,tt1219289,Limitless,notalk,notalk,FAIL,27000000,USA,"Mystery, Sci-Fi, Thriller",TRUE,Relativity Media,69
+2011,tt0466893,Margaret,ok,ok,PASS,14000000,USA,Drama,TRUE,Fox Searchlight,73
+2011,tt1615147,Margin Call,notalk-disagree,notalk,FAIL,3400000,USA,"Drama, Thriller",TRUE,Roadside Attractions,88
+2011,tt1305591,Mars Needs Moms,dubious,dubious,FAIL,150000000,USA,"Animation, Adventure, Family, Sci-Fi",TRUE,Walt Disney Pictures,37
+2011,tt1441326,Martha Marcy May Marlene,ok,ok,PASS,1000000,USA,"Drama, Mystery, Thriller",TRUE,Fox Searchlight,90
+2011,tt1527186,Melancholia,ok,ok,PASS,9400000,"Denmark, Sweden, France, Germany","Drama, Sci-Fi",FALSE,Magnolia Pictures,79
+2011,tt1605783,Midnight in Paris,ok,ok,PASS,30000000,"Spain, USA, France","Comedy, Fantasy, Romance",TRUE,Sony Pictures Classics,93
+2011,tt1229238,Mission: Impossible - Ghost Protocol,notalk-disagree,notalk,FAIL,145000000,"USA, United Arab Emirates, Czech Republic, Russia, India, Canada","Action, Adventure, Thriller",TRUE,Paramount Studios,93
+2011,tt1210166,Moneyball,notalk,notalk,FAIL,50000000,USA,"Biography, Drama, Sport",TRUE,Sony Pictures,94
+2011,tt1396218,Mr. Popper&#39;s Penguins,notalk,notalk,FAIL,55000000,USA,"Comedy, Family, Fantasy",TRUE,20th Century Fox,48
+2011,tt1598822,New Year&#39;s Eve,ok,ok,PASS,26000000,USA,"Comedy, Romance",TRUE,Warner Bros.,7
+2011,tt1411238,No Strings Attached,ok,ok,PASS,25000000,USA,"Comedy, Romance",TRUE,Paramount Pictures,49
+2011,tt1720182,October Baby,ok,ok,PASS,1000000,USA,Drama,TRUE,IDP/Samuel goldwyn Films,23
+2011,tt1637706,Our Idiot Brother,ok,ok,PASS,5000000,USA,"Comedy, Drama",TRUE,The Weinstein Company,69
+2011,tt1778304,Paranormal Activity 3,ok,ok,PASS,5000000,USA,"Horror, Mystery, Thriller",TRUE,Paramount Pictures,67
+2011,tt1092026,Paul,ok,ok,PASS,40000000,"USA, UK","Adventure, Comedy, Sci-Fi",TRUE,Universal Pictures,71
+2011,tt1298650,Pirates of the Caribbean: On Stranger Tides,notalk,notalk,FAIL,250000000,"USA, UK","Action, Adventure, Fantasy",TRUE,Walt Disney Pictures,32
+2011,tt0822847,Priest,notalk-disagree,notalk,FAIL,60000000,USA,"Action, Adventure, Fantasy, Horror, Sci-Fi, Thriller",TRUE,Screen Gems/SONY PICTURES,15
+2011,tt0448694,Puss in Boots,notalk,notalk,FAIL,130000000,USA,"Animation, Action, Adventure, Comedy, Family, Fantasy",TRUE,Paramount/Dreamworks,85
+2011,tt1192628,Rango,notalk-disagree,notalk,FAIL,135000000,"USA, Brazil, UK","Animation, Adventure, Comedy, Family, Western",TRUE,Paramount Pictures,88
+2011,tt0433035,Real Steel,notalk,notalk,FAIL,110000000,"USA, India","Action, Drama, Family, Sci-Fi, Sport",TRUE,Walt Disney Pictures,60
+2011,tt1486185,Red Riding Hood,ok,ok,PASS,42000000,"USA, Canada","Fantasy, Horror, Mystery, Romance, Thriller",TRUE,Warner Bros.,10
+2011,tt0873886,Red State,ok,ok,PASS,4000000,USA,"Action, Crime, Horror, Thriller",TRUE,SModcast Pictures,60
+2011,tt1498569,Restless,ok,ok,PASS,8000000,USA,"Drama, Romance",TRUE,Sony Pictures,37
+2011,tt1436562,Rio,notalk,notalk,FAIL,90000000,"USA, Brazil","Animation, Adventure, Comedy, Family, Musical",TRUE,20th Century Fox,72
+2011,tt1318514,Rise of the Planet of the Apes,notalk,notalk,FAIL,93000000,"USA, UK, Canada","Action, Drama, Sci-Fi, Thriller",TRUE,20th Century Fox,82
+2011,tt1723811,Shame,notalk,notalk,FAIL,6500000,UK,Drama,FALSE,Fox Searchlight,79
+2011,tt1541995,Snow Flower and the Secret Fan,ok,ok,PASS,6000000,"China, USA","Drama, History",TRUE,Fox Searchlight,22
+2011,tt1596346,Soul Surfer,ok,ok,PASS,18000000,USA,"Biography, Drama, Family, Sport",TRUE,TriStar/FilmDistrict,45
+2011,tt0945513,Source Code,notalk-disagree,notalk,FAIL,32000000,"USA, Canada","Action, Drama, Sci-Fi, Thriller",TRUE,Summit Entertainment,92
+2011,tt0999913,Straw Dogs,ok,ok,PASS,25000000,USA,"Action, Drama, Thriller",TRUE,Sony Pictures/Screen Gems,41
+2011,tt0978764,Sucker Punch,ok-disagree,ok,PASS,75000000,"USA, Canada","Action, Adventure, Fantasy",TRUE,IMAX,22
+2011,tt1650062,Super 8,ok-disagree,ok,PASS,50000000,USA,"Mystery, Sci-Fi, Thriller",TRUE,Paramount Pictures,81
+2011,tt1675192,Take Shelter,ok,ok,PASS,4750000,USA,"Drama, Horror, Thriller",TRUE,Sony Pictures Classics,92
+2011,tt1385826,The Adjustment Bureau,dubious-disagree,dubious,FAIL,50200000,USA,"Romance, Sci-Fi, Thriller",TRUE,Universal Pictures,71
+2011,tt0983193,The Adventures of Tintin,notalk,notalk,FAIL,130000000,"USA, New Zealand, UK","Animation, Action, Adventure, Family, Mystery",TRUE,Paramount,73
+2011,tt1655442,The Artist,notalk-disagree,notalk,FAIL,16000000,"France, USA, Belgium","Comedy, Drama, Romance",TRUE,The Weinstein Company,95
+2011,tt1412386,The Best Exotic Marigold Hotel,ok,ok,PASS,10000000,"UK, USA, United Arab Emirates","Comedy, Drama, Romance",TRUE,20th Century Fox,79
+2011,tt1259521,The Cabin in the Woods,dubious-disagree,dubious,FAIL,30000000,USA,"Comedy, Horror",TRUE,Lionsgate Films,91
+2011,tt1093357,The Darkest Hour,ok,ok,PASS,34800000,"USA, Russia","Action, Adventure, Horror, Sci-Fi, Thriller",TRUE,Summit Entertainment,12
+2011,tt1535616,The Divide,ok,ok,PASS,3000000,"USA, Germany, Canada, France","Drama, Horror, Sci-Fi, Thriller",TRUE,Anchor Bay Entertainment,25
+2011,tt1235170,The Future,ok,ok,PASS,1000000,"Germany, USA, France","Drama, Fantasy, Romance",TRUE,Roadside Attractions,72
+2011,tt1568346,The Girl with the Dragon Tattoo,notalk-disagree,notalk,FAIL,90000000,"USA, Sweden, Norway","Crime, Drama, Mystery, Thriller",TRUE,Sony Pictures,86
+2011,tt0990407,The Green Hornet,notalk,notalk,FAIL,110000000,USA,"Action, Comedy, Crime, Sci-Fi, Thriller",TRUE,Sony Pictures,44
+2011,tt1540133,The Guard,notalk,notalk,FAIL,6000000,Ireland,"Comedy, Crime, Thriller",FALSE,Sony Pictures Classics,94
+2011,tt1454029,The Help,ok,ok,PASS,25000000,"USA, India, United Arab Emirates",Drama,TRUE,DreamWorks Studios,76
+2011,tt1007029,The Iron Lady,ok,ok,PASS,14000000,"UK, France","Biography, Drama",FALSE,The Weinstein Co.,51
+2011,tt1189340,The Lincoln Lawyer,notalk,notalk,FAIL,40000000,USA,"Crime, Drama, Thriller",TRUE,Lionsgate Films,84
+2011,tt0472399,The Mechanic,nowomen,nowomen,FAIL,42500000,USA,"Action, Crime, Thriller",TRUE,CBS Films,53
+2011,tt1204342,The Muppets,notalk-disagree,notalk,FAIL,45000000,USA,"Adventure, Comedy, Family, Musical",TRUE,Walt Disney Pictures,95
+2011,tt1161864,The Rite,dubious-disagree,dubious,FAIL,37000000,"USA, Hungary, Italy","Drama, Horror, Mystery, Thriller",TRUE,Warner Bros. Pictures/New Line Cinema,21
+2011,tt1265990,The Roommate,ok,ok,PASS,16000000,USA,"Drama, Thriller",TRUE,Screen Gems/SONY PICTURES,4
+2011,tt0472181,The Smurfs,ok,ok,PASS,110000000,"USA, Belgium, Canada","Animation, Adventure, Comedy, Family, Fantasy",TRUE,Sony Pictures Columbia,22
+2011,tt1509767,The Three Musketeers,men,men,FAIL,90000000,"USA, Germany, France, UK","Action, Adventure, Romance",TRUE,Summit Entertainment,26
+2011,tt0478304,The Tree of Life,nowomen-disagree,nowomen,FAIL,35000000,USA,"Drama, Fantasy",TRUE,Fox Searchlight,85
+2011,tt1324999,The Twilight Saga: Breaking Dawn - Part 1,ok,ok,PASS,127500000,USA,"Adventure, Drama, Fantasy, Romance",TRUE,Summit Entertainment,25
+2011,tt0800369,Thor,ok-disagree,ok,PASS,150000000,USA,"Action, Adventure, Fantasy, Sci-Fi",TRUE,Paramount Pictures,77
+2011,tt1340800,Tinker Tailor Soldier Spy,notalk,notalk,FAIL,21000000,"France, UK, Germany","Drama, Mystery, Thriller",FALSE,Focus Features,83
+2011,tt0471042,Tower Heist,notalk,notalk,FAIL,85000000,USA,"Action, Comedy, Crime",TRUE,Universal Pictures,67
+2011,tt1399103,Transformers: Dark of the Moon,ok-disagree,ok,PASS,195000000,USA,"Action, Adventure, Sci-Fi",TRUE,Paramount Studios,35
+2011,tt1568911,War Horse,notalk-disagree,notalk,FAIL,70000000,"USA, India","Drama, History, War",TRUE,Walt Disney Pictures,76
+2011,tt1291584,Warrior,notalk,notalk,FAIL,25000000,USA,"Drama, Sport",TRUE,Lionsgate,83
+2011,tt1389137,We Bought a Zoo,men-disagree,men,FAIL,50000000,USA,"Comedy, Drama, Family",TRUE,20th Century Fox,64
+2011,tt1714210,Weekend,notalk,notalk,FAIL,190000,UK,"Drama, Romance",FALSE,IFC Films,95
+2011,tt0770703,What&#39;s Your Number,ok,ok,PASS,20000000,USA,"Comedy, Romance",TRUE,20th Century Fox,24
+2011,tt1449283,Winnie the Pooh,nowomen,nowomen,FAIL,30000000,USA,"Animation, Adventure, Comedy, Family, Musical",TRUE,Walt Disney Pictures,91
+2011,tt1270798,X-Men: First Class,ok-disagree,ok,PASS,160000000,"USA, UK","Action, Adventure, Sci-Fi",TRUE,20th Century Fox,86
+2011,tt1625346,Young Adult,ok,ok,PASS,12000000,USA,"Comedy, Drama",TRUE,Paramount Studios,80
+2011,tt1742336,Your Sister&#39;s Sister,ok,ok,PASS,120000,USA,"Comedy, Drama",TRUE,IFC Films,83
+2010,tt1542344,127 Hours,dubious-disagree,dubious,FAIL,18000000,"USA, UK, France","Adventure, Biography, Drama, Thriller",TRUE,Fox Searchlight,93
+2010,tt1014759,Alice in Wonderland,ok,ok,PASS,200000000,USA,"Adventure, Family, Fantasy",TRUE,Walt Disney Pictures,51
+2010,tt1313092,Animal Kingdom,notalk,notalk,FAIL,4200000,Australia,"Crime, Drama",FALSE,Sony Pictures Classics,95
+2010,tt1431181,Another Year,ok,ok,PASS,8000000,UK,"Comedy, Drama",FALSE,Sony Classics,92
+2010,tt1423894,Barney&#39;s Version,ok,ok,PASS,30000000,"Italy, Canada","Comedy, Drama",FALSE,Sony Classics,79
+2010,tt1532503,Beginners,notalk,notalk,FAIL,3200000,USA,"Comedy, Drama, Romance",TRUE,Focus Features,85
+2010,tt1164999,Biutiful,notalk,notalk,FAIL,35000000,"Mexico, Spain","Drama, Romance",FALSE,Roadside Attractions,66
+2010,tt0947798,Black Swan,ok-disagree,ok,PASS,13000000,USA,"Drama, Thriller",TRUE,Fox Searchlight,85
+2010,tt1120985,Blue Valentine,men-disagree,men,FAIL,1000000,USA,"Drama, Romance",TRUE,Weinstein Company,87
+2010,tt1126591,Burlesque,ok,ok,PASS,55000000,USA,"Drama, Music, Musical, Romance",TRUE,Sony Pictures/Screen Gems,36
+2010,tt1194417,Casino Jack,notalk-disagree,notalk,FAIL,12500000,Canada,"Biography, Comedy, Crime, Drama",FALSE,ATO Pictures,40
+2010,tt1020558,Centurion,notalk,notalk,FAIL,15000000,"UK, France, USA","Action, Adventure, Drama, History, Thriller, War",TRUE,Magnolia Pictures,61
+2010,tt1438254,Charlie St. Cloud,notalk-disagree,notalk,FAIL,44000000,"USA, Canada","Drama, Fantasy, Romance",TRUE,Universal Pictures,27
+2010,tt0800320,Clash of the Titans,dubious,dubious,FAIL,125000000,"USA, UK, Australia","Action, Adventure, Fantasy",TRUE,Warner Bros.,27
+2010,tt1244754,Conviction,ok,ok,PASS,12500000,USA,"Biography, Crime, Drama",TRUE,Fox Searchlight,67
+2010,tt1385867,Cop Out,notalk,notalk,FAIL,37000000,USA,"Action, Comedy, Crime, Thriller",TRUE,Warner Bros. Pictures,18
+2010,tt1555064,Country Strong,ok,ok,PASS,15000000,USA,"Drama, Music",TRUE,Screen Gems,22
+2010,tt1336617,Cyrus,notalk,notalk,FAIL,7000000,USA,"Comedy, Drama, Romance",TRUE,Fox Searchlight,80
+2010,tt1279935,Date Night,ok,ok,PASS,55000000,USA,"Comedy, Crime, Romance, Thriller",TRUE,20th Century Fox,66
+2010,tt0989757,Dear John,nowomen,nowomen,FAIL,25000000,USA,"Drama, Romance, War",TRUE,Screen Gems/SONY PICTURES,29
+2010,tt1323594,Despicable Me,ok-disagree,ok,PASS,69000000,"USA, France","Animation, Comedy, Family, Fantasy",TRUE,Universal Pictures,81
+2010,tt1314655,Devil,ok-disagree,ok,PASS,10000000,USA,"Horror, Mystery, Thriller",TRUE,Universal Pictures,52
+2010,tt1196141,Diary of a Wimpy Kid,ok,ok,PASS,15000000,"USA, UK","Comedy, Drama, Family",TRUE,20th Century Fox,52
+2010,tt0427152,Dinner for Schmucks,notalk,notalk,FAIL,69000000,USA,Comedy,TRUE,Paramount Studios,41
+2010,tt1270761,Don&#39;t Be Afraid of the Dark,ok,ok,PASS,25000000,"USA, Australia, Mexico","Fantasy, Horror, Thriller",TRUE,Miramax Films,59
+2010,tt1231583,Due Date,notalk,notalk,FAIL,65000000,USA,"Adventure, Comedy",TRUE,Warner Bros. Pictures,40
+2010,tt1013860,Dylan Dog: Dead of Night,nowomen,nowomen,FAIL,20000000,USA,"Action, Comedy, Crime, Fantasy, Horror, Mystery, Sci-Fi, Thriller",TRUE,Freestyle Releasing,7
+2010,tt1282140,Easy A,ok-disagree,ok,PASS,8000000,USA,"Comedy, Drama, Romance",TRUE,Sony Pictures/Screen Gems,85
+2010,tt0879870,"Eat, Pray, Love",ok-disagree,ok,PASS,60000000,USA,"Drama, Romance",TRUE,Sony Pictures,36
+2010,tt1226273,Edge of Darkness,notalk,notalk,FAIL,60000000,"UK, USA","Crime, Drama, Mystery, Thriller",TRUE,Warner Bros. Pictures,56
+2010,tt1531663,Everything Must Go,notalk,notalk,FAIL,5000000,USA,"Comedy, Drama",TRUE,Roadside Attractions,73
+2010,tt0977855,Fair Game,ok,ok,PASS,50000000,"USA, United Arab Emirates","Biography, Drama, Thriller",TRUE,Summit Entertainment,79
+2010,tt1433108,Faster,nowomen,nowomen,FAIL,12000000,USA,"Action, Crime, Drama, Thriller",TRUE,CBS Films,42
+2010,tt1405500,For Colored Girls,ok,ok,PASS,21000000,USA,Drama,TRUE,Lionsgate,32
+2010,tt1323045,Frozen,notalk,notalk,FAIL,150000000,USA,"Adventure, Drama, Sport, Thriller",TRUE,Anchor Bay,63
+2010,tt1226229,Get Him To The Greek,notalk,notalk,FAIL,40000000,USA,"Adventure, Comedy, Music",TRUE,Universal Pictures,72
+2010,tt1322312,Going the Distance,ok,ok,PASS,32000000,USA,"Comedy, Romance",TRUE,New Line Cinema,53
+2010,tt0947810,Green Zone,nowomen-disagree,nowomen,FAIL,100000000,"UK, France, Spain, USA","Action, Drama, Thriller, War",TRUE,Universal Pictures,54
+2010,tt1375670,Grown Ups,ok-disagree,ok,PASS,75000000,USA,Comedy,TRUE,Sony Pictures,10
+2010,tt1376195,Gunless,men,men,FAIL,9900000,Canada,"Action, Comedy, Drama, Western",FALSE,Cinema Eopch,40
+2010,tt0926084,Harry Potter and the Deathly Hallows: Part 1,ok-disagree,ok,PASS,125000000,"UK, USA","Adventure, Fantasy, Mystery",TRUE,Warner Bros. Pictures,77
+2010,tt1231587,Hot Tub Time Machine,notalk,notalk,FAIL,36000000,USA,"Comedy, Sci-Fi",TRUE,MGM,64
+2010,tt0892769,How to Train Your Dragon,ok,ok,PASS,165000000,USA,"Animation, Action, Adventure, Family, Fantasy",TRUE,Paramount/DWA,99
+2010,tt1226236,I Am Love,ok,ok,PASS,10000000,Italy,"Drama, Romance",FALSE,Magnolia Pictures,82
+2010,tt1375666,Inception,dubious-disagree,dubious,FAIL,160000000,"USA, UK","Action, Adventure, Sci-Fi, Thriller",TRUE,Warner Bros. Pictures,86
+2010,tt1591095,Insidious,ok-disagree,ok,PASS,1500000,"USA, Canada, UK","Horror, Mystery, Thriller",TRUE,FilmDistrict,66
+2010,tt1228705,Iron Man 2,ok,ok,PASS,170000000,USA,"Action, Adventure, Sci-Fi",TRUE,Paramount Studios,73
+2010,tt0804497,It&#39;s Kind of a Funny Story,notalk,notalk,FAIL,8000000,USA,"Comedy, Drama, Romance",TRUE,Focus Features,58
+2010,tt1250777,Kick-Ass,notalk-disagree,notalk,FAIL,28000000,"UK, USA","Action, Comedy",TRUE,Lionsgate,76
+2010,tt1013743,Knight and Day,men-disagree,men,FAIL,117000000,USA,"Action, Adventure, Comedy, Romance, Thriller",TRUE,20th Century Fox,52
+2010,tt1038686,Legion,ok,ok,PASS,26000000,USA,"Action, Fantasy, Horror",TRUE,Screen Gems,19
+2010,tt1228987,Let Me In,notalk-disagree,notalk,FAIL,20000000,"UK, USA","Drama, Fantasy, Horror, Mystery, Thriller",TRUE,Overture Films,88
+2010,tt0892318,Letters to Juliet,dubious-disagree,dubious,FAIL,30000000,USA,"Adventure, Comedy, Drama, Romance",TRUE,Summit Entertainment,41
+2010,tt0758752,Love and Other Drugs,men-disagree,men,FAIL,30000000,USA,"Comedy, Drama, Romance",TRUE,20th Century Fox,48
+2010,tt0985694,Machete,ok,ok,PASS,12500000,USA,"Action, Crime, Thriller",TRUE,20th Century Fox,72
+2010,tt1371155,Made In Dagenham,ok,ok,PASS,8000000,UK,"Biography, Comedy, Drama, History",FALSE,Sony Pictures Classics,80
+2010,tt1518812,Meek&#39;s Cutoff,men,men,FAIL,2000000,USA,"Drama, Western",TRUE,Oscilloscope Pictures,86
+2010,tt1001526,Megamind,nowomen-disagree,nowomen,FAIL,130000000,USA,"Animation, Action, Comedy, Family, Sci-Fi",TRUE,Paramount Studios/DWA,72
+2010,tt1470827,Monsters,nowomen-disagree,nowomen,FAIL,500000,UK,"Drama, Sci-Fi, Thriller",FALSE,Magnolia Pictures,73
+2010,tt1126618,Morning Glory,ok,ok,PASS,40000000,USA,"Comedy, Drama, Romance",TRUE,Paramount Studios,55
+2010,tt1415283,Nanny McPhee and the Big Bang,ok,ok,PASS,35000000,"UK, France, USA","Comedy, Family, Fantasy",TRUE,Universal Studios,76
+2010,tt1334260,Never Let Me Go,ok,ok,PASS,15000000,"UK, USA","Drama, Romance, Sci-Fi",TRUE,Fox Searchlight Pictures,69
+2010,tt1536044,Paranormal Activity 2,ok,ok,PASS,3000000,USA,Horror,TRUE,Paramount Pictures,59
+2010,tt0814255,Percy Jackson &amp; the Olympians: The Lightning Thief,dubious-disagree,dubious,FAIL,95000000,"UK, Canada, USA","Adventure, Family, Fantasy",TRUE,20th Century Fox,49
+2010,tt0878835,Please Give,ok,ok,PASS,3000000,USA,"Comedy, Drama",TRUE,Sony Pictures Classics,86
+2010,tt1424381,Predators,nowomen,nowomen,FAIL,40000000,USA,"Action, Adventure, Sci-Fi, Thriller",TRUE,20th Century Fox,65
+2010,tt0473075,Prince of Persia: The Sands of Time,nowomen,nowomen,FAIL,200000000,USA,"Action, Adventure, Fantasy",TRUE,Walt Disney Pictures,37
+2010,tt0935075,Rabbit Hole,ok,ok,PASS,5000000,USA,Drama,TRUE,Lionsgate Films,86
+2010,tt0493949,Ramona and Beezus,ok,ok,PASS,15000000,USA,"Adventure, Comedy, Family, Fantasy",TRUE,20th Century Fox,70
+2010,tt1245526,Red,men-disagree,men,FAIL,60000000,USA,"Action, Comedy, Crime, Thriller",TRUE,Summit Entertainment,71
+2010,tt1403981,Remember Me,ok,ok,PASS,16000000,USA,"Drama, Romance",TRUE,Summit Entertainment,27
+2010,tt1053424,Repo Men,ok,ok,PASS,32000000,"USA, Canada","Action, Crime, Sci-Fi, Thriller",TRUE,Universal Studios,21
+2010,tt0955308,Robin Hood,dubious-disagree,dubious,FAIL,210000000,"USA, UK","Action, Adventure, Drama, History, Romance",TRUE,Universal,43
+2010,tt0944835,Salt,ok-disagree,ok,PASS,130000000,USA,"Action, Mystery, Thriller",TRUE,Sony Pictures,63
+2010,tt0446029,Scott Pilgrim vs. the World,ok,ok,PASS,85000000,"USA, UK, Canada, Japan","Action, Comedy, Fantasy, Romance",TRUE,Universal Pictures,81
+2010,tt1028576,Secretariat,ok,ok,PASS,35000000,USA,"Biography, Drama, Family, History, Sport",TRUE,Walt Disney Pictures,63
+2010,tt1261945,Sex and the city 2,ok,ok,PASS,95000000,USA,"Comedy, Drama, Romance",TRUE,Warner Bros. Pictures,15
+2010,tt0892791,Shrek Forever After,notalk,notalk,FAIL,165000000,USA,"Animation, Adventure, Comedy, Family, Fantasy, Romance",TRUE,Paramount,58
+2010,tt1130884,Shutter Island,notalk,notalk,FAIL,80000000,USA,"Mystery, Thriller",TRUE,Paramount Studios,68
+2010,tt1564585,Skyline,dubious,dubious,FAIL,10000000,USA,"Action, Sci-Fi, Thriller",TRUE,Rogue Pictures/Universal Studios,16
+2010,tt1421051,Somewhere,dubious-disagree,dubious,FAIL,7000000,"USA, UK, Italy, Japan","Comedy, Drama",TRUE,Focus Features,70
+2010,tt1440292,Submarine,notalk,notalk,FAIL,1900000,"UK, USA","Comedy, Drama, Romance",TRUE,The Weinstein Company,88
+2010,tt1512235,Super,notalk,notalk,FAIL,2500000,USA,"Action, Comedy, Drama",TRUE,IFC Midnight,49
+2010,tt1135084,Takers,notalk,notalk,FAIL,32000000,USA,"Action, Crime, Thriller",TRUE,Sony Pictures/Screen Gems,29
+2010,tt0398286,Tangled,ok,ok,PASS,260000000,USA,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",TRUE,Walt Disney Pictures,89
+2010,tt0429493,The A-Team,nowomen-disagree,nowomen,FAIL,110000000,"USA, UK","Action, Adventure, Thriller",TRUE,20th Century Fox,48
+2010,tt1212436,The Back-up Plan,ok,ok,PASS,35000000,USA,"Comedy, Romance",TRUE,CBS Films,18
+2010,tt0980970,The Chronicles of Narnia: The Voyage of the Dawn Treader,ok-disagree,ok,PASS,155000000,"USA, UK","Adventure, Family, Fantasy",TRUE,20th Century Fox,49
+2010,tt0968264,The Conspirator,dubious,dubious,FAIL,25000000,USA,"Crime, Drama, History",TRUE,Roadside Attractions,55
+2010,tt0455407,The Crazies,ok,ok,PASS,19000000,"USA, United Arab Emirates","Horror, Thriller",TRUE,Overture Films,71
+2010,tt1226753,The Debt,ok,ok,PASS,20000000,"USA, UK, Hungary, Israel","Drama, Thriller",TRUE,Focus Features,77
+2010,tt1320253,The Expendables,notalk,notalk,FAIL,82000000,"USA, Bulgaria","Action, Adventure, Thriller",TRUE,Lionsgate Films,42
+2010,tt0964517,The Fighter,men,men,FAIL,11000000,USA,"Biography, Drama, Sport",TRUE,Paramount Pictures,90
+2010,tt1139328,The Ghost Writer,men,men,FAIL,45000000,"France, Germany, UK","Drama, Mystery, Thriller",FALSE,Summit Entertainment,84
+2010,tt0775489,The Illusionist,nowomen,nowomen,FAIL,16500000,"France, UK","Animation, Drama",FALSE,Sony Pictures Classics,91
+2010,tt1155076,The Karate Kid,dubious-disagree,dubious,FAIL,40000000,"USA, China","Action, Drama, Family, Romance, Sport",TRUE,Sony Pictures,66
+2010,tt0842926,The Kids Are All Right,ok,ok,PASS,4000000,USA,"Comedy, Drama, Romance",TRUE,Focus Features,93
+2010,tt0954947,The Killer Inside Me,notalk,notalk,FAIL,13000000,"UK, Sweden, Canada, USA","Crime, Drama, Horror, Thriller",TRUE,IFC Films,54
+2010,tt1504320,The King&#39;s Speech,ok-disagree,ok,PASS,15000000,"UK, USA, Australia","Biography, Drama, History",TRUE,The Weinstein Company,94
+2010,tt0938283,The Last Airbender,notalk-disagree,notalk,FAIL,150000000,USA,"Action, Adventure, Family, Fantasy",TRUE,Paramount Pictures,5
+2010,tt1320244,The Last Exorcism,ok,ok,PASS,1800000,"France, USA","Drama, Horror, Thriller",TRUE,Lionsgate,72
+2010,tt0480255,The Losers,notalk,notalk,FAIL,25000000,USA,"Action, Adventure, Crime, Mystery, Thriller",TRUE,Warner Bros. Pictures,48
+2010,tt1458175,The Next Three Days,ok,ok,PASS,30000000,"USA, France","Action, Crime, Drama, Romance, Thriller",TRUE,Lionsgate,51
+2010,tt1386588,The Other Guys,nowomen-disagree,nowomen,FAIL,100000000,USA,"Action, Comedy, Crime",TRUE,Columbia Pictures,78
+2010,tt1017451,The Runaways,ok,ok,PASS,9500000,USA,"Biography, Drama, Music",TRUE,Apparition,69
+2010,tt1285016,The Social Network,notalk-disagree,notalk,FAIL,40000000,USA,"Biography, Drama",TRUE,Columbia Pictures,95
+2010,tt0963966,The Sorcerer&#39;s Apprentice,notalk,notalk,FAIL,160000000,USA,"Action, Adventure, Family, Fantasy",TRUE,Walt Disney Studios,40
+2010,tt1273678,The Spy Next Door,ok,ok,PASS,28000000,USA,"Action, Comedy, Family",TRUE,Lionsgate,12
+2010,tt0889573,The Switch,men,men,FAIL,19000000,USA,"Comedy, Drama, Romance",TRUE,Miramax,51
+2010,tt1274300,The Tempest,ok,ok,PASS,20000000,USA,"Comedy, Drama, Fantasy, Romance",TRUE,Touchstone Pictures/Miramax Films,30
+2010,tt1243957,The Tourist,nowomen,nowomen,FAIL,100000000,"USA, France, Italy, UK","Action, Adventure, Thriller",TRUE,Columbia Pictures,20
+2010,tt0840361,The Town,notalk,notalk,FAIL,37000000,USA,"Crime, Drama, Thriller",TRUE,Warner Bros. Pictures,93
+2010,tt1325004,The Twilight Saga: Eclipse,ok-disagree,ok,PASS,68000000,USA,"Adventure, Drama, Fantasy, Romance",TRUE,Summit Entertainment,48
+2010,tt0780653,The Wolfman,notalk-disagree,notalk,FAIL,150000000,USA,"Drama, Fantasy, Horror, Thriller",TRUE,Universal Pictures,35
+2010,tt1570989,Tiny Furniture,ok,ok,PASS,50000,USA,"Comedy, Drama, Romance",TRUE,IFC,79
+2010,tt0435761,Toy Story 3,dubious-disagree,dubious,FAIL,200000000,USA,"Animation, Adventure, Comedy, Family, Fantasy",TRUE,Walt Disney Pictures,98
+2010,tt1104001,Tron Legacy,notalk-disagree,notalk,FAIL,200000000,USA,"Action, Adventure, Fantasy, Sci-Fi",TRUE,Walt Disney Pictures,50
+2010,tt1403865,True Grit,ok-disagree,ok,PASS,35000000,USA,"Adventure, Drama, Western",TRUE,Paramount Pictures,96
+2010,tt1465522,Tucker and Dale vs Evil,ok,ok,PASS,5000000,"Canada, USA, India, UK","Comedy, Horror",TRUE,Magnet Releasing,84
+2010,tt0477080,Unstoppable,dubious,dubious,FAIL,95000000,USA,"Action, Thriller",TRUE,20th Century Fox,86
+2010,tt0817230,Valentine&#39;s Day,ok,ok,PASS,52000000,USA,"Comedy, Romance",TRUE,New Line Cinema/Warner Bros. Pictures,18
+2010,tt1027718,Wall Street: Money Never Sleeps,dubious-disagree,dubious,FAIL,70000000,USA,Drama,TRUE,20th Century Fox,55
+2010,tt1183923,Welcome to the Rileys,ok,ok,PASS,10000000,"UK, USA",Drama,TRUE,Samuel Goldwyn Films/Destination Films,54
+2010,tt1235189,Wild Target,notalk,notalk,FAIL,8000000,"UK, France","Action, Comedy, Crime",FALSE,Freestyle Releasing,33
+2010,tt1399683,Winter&#39;s Bone,ok-disagree,ok,PASS,2000000,USA,"Drama, Mystery",TRUE,Roadside Attractions,94
+2010,tt1216520,Womb,ok,ok,PASS,13000000,"Germany, Hungary, France","Drama, Romance, Sci-Fi",FALSE,Olive Films,35
+2010,tt1302067,Yogi Bear,nowomen,nowomen,FAIL,80000000,"USA, New Zealand","Animation, Adventure, Comedy, Family",TRUE,Warner Bros. Pictures,13
+2010,tt1414382,You Again,ok,ok,PASS,20000000,USA,"Comedy, Family, Romance",TRUE,Touchstone Pictures,17
+2010,tt1182350,You Will Meet a Tall Dark Stranger,ok,ok,PASS,15000000,"USA, Spain","Comedy, Drama, Romance",TRUE,Sony Pictures Classics,46
+2009,tt1022603,(500) Days of Summer,notalk-disagree,notalk,FAIL,7500000,USA,"Comedy, Drama, Romance",TRUE,Fox Searchlight Pictures,85
+2009,tt0974661,17 Again,ok-disagree,ok,PASS,40000000,USA,"Comedy, Drama, Fantasy",TRUE,New Line Cinema,56
+2009,tt1190080,2012,notalk-disagree,notalk,FAIL,200000000,USA,"Action, Adventure, Sci-Fi",TRUE,Sony Pictures/Columbia,39
+2009,tt0472033,9,nowomen,nowomen,FAIL,30000000,USA,"Animation, Action, Adventure, Sci-Fi",TRUE,Focus Features,57
+2009,tt0971209,A Perfect Getaway,dubious-disagree,dubious,FAIL,14000000,USA,"Adventure, Mystery, Thriller",TRUE,Universal Pictures,62
+2009,tt1019452,A Serious Man,men,men,FAIL,7000000,"USA, UK, France","Comedy, Drama",TRUE,Focus Features,89
+2009,tt1315981,A Single Man,notalk,notalk,FAIL,7000000,USA,"Drama, Romance",TRUE,The Weinstein Company,85
+2009,tt1185836,Adam,men,men,FAIL,3200000,USA,"Comedy, Drama, Romance",TRUE,Fox Searchlight Pictures,65
+2009,tt1091722,Adventureland,men-disagree,men,FAIL,9800000,USA,"Comedy, Drama, Romance",TRUE,Miramax Films,88
+2009,tt1186830,Agora,notalk,notalk,FAIL,70000000,"Spain, Malta, Bulgaria","Adventure, Biography, Drama, History, Romance",FALSE,Newmarket Films,53
+2009,tt1077262,Ajami,men-disagree,men,FAIL,1000000,"Germany, Israel","Crime, Drama",FALSE,Kino International,97
+2009,tt0881891,All About Steve,ok,ok,PASS,15000000,USA,"Comedy, Romance",TRUE,20th Century Fox,6
+2009,tt1174732,An Education,ok,ok,PASS,7500000,"UK, USA",Drama,TRUE,Sony Classics,95
+2009,tt0808151,Angels &amp; Demons,nowomen,nowomen,FAIL,150000000,"USA, Italy","Mystery, Thriller",TRUE,Sony/Columbia Pictures,37
+2009,tt0913354,Armored,nowomen,nowomen,FAIL,20000000,USA,"Action, Crime, Thriller",TRUE,Sony/Screen Gems,40
+2009,tt0375568,Astro Boy,dubious,dubious,FAIL,65000000,"Japan, Hong Kong, USA","Animation, Action, Comedy, Family, Sci-Fi",TRUE,Summit Entertainment,50
+2009,tt0499549,Avatar,men-disagree,men,FAIL,425000000,"UK, USA","Action, Adventure, Fantasy, Sci-Fi",TRUE,20th Century Fox,82
+2009,tt1176740,Away We Go,ok,ok,PASS,21000000,"USA, UK","Comedy, Drama, Romance",TRUE,Focus Features,68
+2009,tt0889583,Br&uuml;no,nowomen-disagree,nowomen,FAIL,42000000,"USA, UK",Comedy,TRUE,Universal Pictures,67
+2009,tt0901476,Bride Wars,ok,ok,PASS,30000000,USA,"Comedy, Romance",TRUE,20th Century Fox,10
+2009,tt0810784,Bright Star,ok,ok,PASS,8500000,"UK, Australia, France","Biography, Drama, Romance",FALSE,Apparition Films,82
+2009,tt1210042,Brooklyn&#39;s Finest,notalk,notalk,FAIL,17000000,USA,"Crime, Drama, Thriller",TRUE,Overture Films,44
+2009,tt0765010,Brothers,ok,ok,PASS,26000000,USA,"Drama, War",TRUE,Lionsgate Films,63
+2009,tt1232207,Capitalism: A Love Story,notalk-disagree,notalk,FAIL,20000000,USA,"Documentary, Crime, News",TRUE,Overture Films,75
+2009,tt0795351,Case 39,ok,ok,PASS,27000000,"USA, Canada","Horror, Mystery, Thriller",TRUE,Paramount Studios,21
+2009,tt1352824,Chloe,men-disagree,men,FAIL,13000000,"USA, Canada, France","Drama, Mystery, Romance, Thriller",TRUE,Sony Pictures Classics,51
+2009,tt0844471,Cloudy with a Chance of Meatballs,notalk-disagree,notalk,FAIL,100000000,USA,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",TRUE,Sony Pictures,86
+2009,tt1035736,Coco avant Chanel,ok,ok,PASS,23000000,"France, Belgium","Biography, Drama",FALSE,Sony Pictures Classics,63
+2009,tt0327597,Coraline,ok,ok,PASS,60000000,USA,"Animation, Drama, Fantasy, Thriller",TRUE,Focus Features,90
+2009,tt0433362,Daybreakers,notalk,notalk,FAIL,20000000,"Australia, USA","Action, Fantasy, Horror, Sci-Fi, Thriller",TRUE,Lionsgate,67
+2009,tt1278340,Dead Snow,men-disagree,men,FAIL,800000,Norway,"Comedy, Horror",FALSE,IFC,68
+2009,tt1136608,District 9,notalk-disagree,notalk,FAIL,30000000,"South Africa, USA, New Zealand, Canada","Action, Sci-Fi, Thriller",TRUE,Sony Pictures/Screen Gems,90
+2009,tt1127180,Drag Me to Hell,ok,ok,PASS,30000000,USA,"Horror, Thriller",TRUE,Universal Pictures,92
+2009,tt1191111,Enter the Void,notalk,notalk,FAIL,16000000,"France, Germany, Italy, Canada, Japan","Drama, Fantasy",FALSE,IFC Films,71
+2009,tt0780511,Everybody&#39;s Fine,men,men,FAIL,20000000,USA,"Adventure, Drama",TRUE,Miramax,47
+2009,tt0432283,Fantastic Mr. Fox,notalk,notalk,FAIL,40000000,USA,"Animation, Adventure, Comedy, Crime, Drama, Family",TRUE,20th Century Fox,92
+2009,tt1013752,Fast &amp; Furious,notalk,notalk,FAIL,85000000,USA,"Action, Crime, Thriller",TRUE,Universal Pictures,29
+2009,tt1083456,Fired Up!,notalk,notalk,FAIL,20000000,USA,"Comedy, Sport",TRUE,Sony/Screen Gems,25
+2009,tt1232776,Fish Tank,ok,ok,PASS,3000000,"Netherlands, UK",Drama,FALSE,IFC,91
+2009,tt0758746,Friday the 13th,men,men,FAIL,17000000,USA,"Horror, Mystery, Thriller",TRUE,Warner Bros. Pictures/New Line/Paramount,25
+2009,tt1201167,Funny People,notalk,notalk,FAIL,72500000,USA,"Comedy, Drama",TRUE,Universal Pictures,69
+2009,tt0436339,G-Force,notalk,notalk,FAIL,150000000,USA,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",TRUE,Walt Disney Pictures,22
+2009,tt1046173,G.I. Joe: The Rise of Cobra,notalk-disagree,notalk,FAIL,175000000,"USA, Czech Republic","Action, Adventure, Sci-Fi, Thriller",TRUE,Paramount Pictures,34
+2009,tt1034032,Gamer,notalk,notalk,FAIL,50000000,USA,"Action, Sci-Fi, Thriller",TRUE,Lionsgate Films,30
+2009,tt1194263,Get Low,notalk-disagree,notalk,FAIL,7000000,"USA, Germany, Poland","Drama, Mystery",TRUE,Sony Pictures Classics,85
+2009,tt1289406,Harry Brown,notalk,notalk,FAIL,7300000,UK,"Action, Crime, Drama, Thriller",FALSE,Samuel Goldwyn Films,63
+2009,tt0417741,Harry Potter and the Half-Blood Prince,ok-disagree,ok,PASS,250000000,"UK, USA","Adventure, Family, Fantasy, Mystery",TRUE,Warner Bros. Pictures,84
+2009,tt1001508,He&#39;s Just Not That Into You,ok,ok,PASS,40000000,"Germany, USA","Comedy, Drama, Romance",TRUE,Warner Bros. Pictures/New Line Cinema,40
+2009,tt1024744,I Come with the Rain,nowomen,nowomen,FAIL,18000000,"France, Hong Kong, Ireland, Spain, UK",Thriller,FALSE,LeBrocquy Fraser Prods.,-1
+2009,tt1045772,I Love You Phillip Morris,notalk-disagree,notalk,FAIL,13000000,"France, USA","Biography, Comedy, Crime, Drama, Romance",TRUE,Roadside Attractions,71
+2009,tt1155056,"I Love You, Man",men-disagree,men,FAIL,40000000,USA,"Comedy, Romance",TRUE,Dreamworks/Paramount,83
+2009,tt1080016,Ice Age: Dawn of the Dinosaurs,notalk,notalk,FAIL,90000000,USA,"Animation, Adventure, Comedy, Family",TRUE,20th Century Fox/Emerging Pictures,46
+2009,tt0361748,Inglourious Basterds,dubious-disagree,dubious,FAIL,70000000,"Germany, USA","Adventure, Drama, War",TRUE,The Weinstein Company,88
+2009,tt1057500,Invictus,notalk,notalk,FAIL,49000000,USA,"Biography, Drama, History, Sport",TRUE,Warner Bros. Pictures,76
+2009,tt1230414,It&#39;s Complicated,ok,ok,PASS,85000000,"USA, Japan","Comedy, Drama, Romance",TRUE,Universal Pictures,58
+2009,tt1131734,Jennifer&#39;s Body,ok,ok,PASS,16000000,USA,"Comedy, Horror",TRUE,20th Century Fox,44
+2009,tt1135503,Julie &amp; Julia,ok,ok,PASS,40000000,USA,"Biography, Drama, Romance",TRUE,Sony/Columbia Pictures,76
+2009,tt0448011,Knowing,notalk,notalk,FAIL,50000000,"USA, UK, Australia","Action, Drama, Mystery, Sci-Fi, Thriller",TRUE,Summit Entertainment,33
+2009,tt1197624,Law Abiding Citizen,notalk-disagree,notalk,FAIL,53000000,USA,"Crime, Drama, Thriller",TRUE,Overture Films,26
+2009,tt0808526,Life During Wartime,ok,ok,PASS,4500000,USA,"Comedy, Drama",TRUE,IFC Films,69
+2009,tt1149361,Micmacs (Micmacs &agrave; tire-larigot),dubious,dubious,FAIL,42000000,France,"Action, Comedy, Crime",FALSE,Sony Pictures Classics,73
+2009,tt0892782,Monsters vs Aliens,dubious-disagree,dubious,FAIL,175000000,USA,"Animation, Action, Adventure, Comedy, Family, Sci-Fi",TRUE,Paramount/Dreamworks Animation,73
+2009,tt1182345,Moon,notalk-disagree,notalk,FAIL,5000000,"UK, USA","Drama, Mystery, Sci-Fi",TRUE,Sony Pictures Classics,90
+2009,tt1121977,Mother and Child,ok,ok,PASS,7000000,"USA, Spain","Drama, Romance",TRUE,Sony Pictures Classics,78
+2009,tt1179891,My Bloody Valentine 3D,men,men,FAIL,14000000,USA,"Horror, Mystery, Thriller",TRUE,Lionsgate Films,60
+2009,tt1078588,My Sister&#39;s Keeper,ok,ok,PASS,27500000,USA,"Drama, Family",TRUE,Warner Bros. Pictures,48
+2009,tt0875034,Nine,men-disagree,men,FAIL,80000000,"UK, USA","Drama, Musical, Romance",TRUE,The Weinstein Co.,40
+2009,tt1186367,Ninja Assassin,notalk-disagree,notalk,FAIL,50000000,"Germany, USA","Action, Thriller",TRUE,Warner Bros. Pictures/Dark Castle Ent.,25
+2009,tt1266029,Nowhere Boy,dubious,dubious,FAIL,1900000,"UK, Canada","Biography, Drama, Music, Romance",FALSE,Weinstein Company,80
+2009,tt1235796,Ondine,ok,ok,PASS,12000000,"Ireland, USA","Drama, Mystery, Romance",TRUE,Magnolia Pictures,69
+2009,tt1532957,Paa,men,men,FAIL,4300000,India,"Comedy, Drama",FALSE,Big Pictures,43
+2009,tt1188729,Pandorum,notalk,notalk,FAIL,40000000,"Germany, UK, USA","Action, Horror, Mystery, Sci-Fi, Thriller",TRUE,Overture Films,28
+2009,tt1003034,Perrier&#39;s Bounty,nowomen,nowomen,FAIL,6600000,"Ireland, UK","Action, Comedy, Crime, Drama, Romance, Thriller",FALSE,IFC Films,56
+2009,tt0762125,Planet 51,notalk,notalk,FAIL,60000000,"Spain, UK, USA","Animation, Adventure, Comedy, Family, Sci-Fi",TRUE,Sony Pictures/TriStar Pictures,22
+2009,tt0929632,Precious: Based on the Novel Push by Sapphire,ok,ok,PASS,10000000,USA,Drama,TRUE,Lionsgate Films,91
+2009,tt1152836,Public Enemies,notalk,notalk,FAIL,102500000,"USA, Japan","Biography, Crime, Drama",TRUE,Universal Studios,68
+2009,tt0465580,Push,ok,ok,PASS,38000000,"USA, Canada","Action, Sci-Fi, Thriller",TRUE,Summit Entertainment,23
+2009,tt0988045,Sherlock Holmes,notalk,notalk,FAIL,90000000,"USA, Germany, UK","Action, Adventure, Crime, Mystery, Thriller",TRUE,Warner Bros. Pictures/Village Roadshow,70
+2009,tt1017460,Splice,ok,ok,PASS,30000000,"Canada, France, USA","Drama, Horror, Sci-Fi",TRUE,Warner Brothers,75
+2009,tt0796366,Star Trek,ok-disagree,ok,PASS,140000000,"USA, Germany","Action, Adventure, Sci-Fi",TRUE,IMAX,94
+2009,tt0473705,State of Play,ok,ok,PASS,60000000,"USA, UK, France","Crime, Drama, Mystery, Thriller",TRUE,Universal Pictures,84
+2009,tt0986263,Surrogates,notalk,notalk,FAIL,80000000,USA,"Action, Sci-Fi, Thriller",TRUE,Touchstone Pictures,37
+2009,tt0438488,Terminator Salvation,men-disagree,men,FAIL,200000000,"USA, Germany, UK, Italy","Action, Adventure, Sci-Fi",TRUE,Warner Bros. Pictures,33
+2009,tt0878804,The Blind Side,men,men,FAIL,35000000,USA,"Biography, Drama, Sport",TRUE,Warner Bros. Pictures,66
+2009,tt1131729,The Boat That Rocked,nowomen-disagree,nowomen,FAIL,50000000,"UK, France, Germany","Comedy, Drama, Music",FALSE,Focus Features,62
+2009,tt1300851,The Boondock Saints II: All Saints Day,nowomen,nowomen,FAIL,8000000,USA,"Action, Crime, Thriller",TRUE,Apparition,23
+2009,tt0362478,The Box,ok,ok,PASS,25000000,USA,"Drama, Fantasy, Mystery, Sci-Fi, Thriller",TRUE,Warner Bros. Pictures,44
+2009,tt0896923,The City of Your Final Destination,ok-disagree,ok,PASS,8300000,USA,"Drama, Romance",TRUE,Screen Media Films,38
+2009,tt1144884,The Final Destination,ok,ok,PASS,40000000,USA,"Horror, Thriller",TRUE,Warner Bros. Pictures,28
+2009,tt1220198,The Fourth Kind,ok,ok,PASS,10000000,"USA, UK","Mystery, Sci-Fi, Thriller",TRUE,Universal Pictures,18
+2009,tt1132620,The Girl with the Dragon Tattoo,dubious-disagree,dubious,FAIL,90000000,"Sweden, Denmark, Germany, Norway","Crime, Drama, Mystery, Thriller",FALSE,Music Box Films,86
+2009,tt1103982,The Girlfriend Experience,dubious,dubious,FAIL,1300000,USA,Drama,TRUE,Magnolia Pictures,66
+2009,tt1247662,The Good Guy,ok,ok,PASS,10000000,USA,"Comedy, Romance",TRUE,Roadside Attractions,35
+2009,tt1119646,The Hangover,notalk,notalk,FAIL,35000000,"USA, Germany",Comedy,TRUE,Warner Bros. Pictures,78
+2009,tt1054606,The Imaginarium of Doctor Parnassus,notalk,notalk,FAIL,30000000,"UK, Canada, France","Adventure, Comedy, Fantasy, Mystery",FALSE,Sony Pictures Classics,64
+2009,tt1130080,The Informant!,notalk,notalk,FAIL,22000000,USA,"Biography, Comedy, Crime, Drama",TRUE,Warner Bros. Pictures,80
+2009,tt1058017,The Invention of Lying,men,men,FAIL,18500000,USA,"Comedy, Fantasy, Romance",TRUE,Warner Bros. Pictures,56
+2009,tt0824758,The Last Station,ok,ok,PASS,18000000,"UK, Germany, Russia","Biography, Drama, Romance",FALSE,Sony Pictures Classics,71
+2009,tt0380510,The Lovely Bones,ok,ok,PASS,95000000,"USA, UK, New Zealand","Drama, Fantasy, Thriller",TRUE,Paramount Pictures,32
+2009,tt1234548,The Men Who Stare at Goats,nowomen,nowomen,FAIL,24000000,"USA, UK","Comedy, War",TRUE,Overture Films,51
+2009,tt0790712,The Messenger,notalk,notalk,FAIL,6500000,USA,"Drama, Romance, War",TRUE,Oscilloscope Pictures,89
+2009,tt0780521,The Princess and the Frog,ok,ok,PASS,105000000,USA,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",TRUE,Walt Disney Pictures,85
+2009,tt1041829,The Proposal,men-disagree,men,FAIL,40000000,USA,"Comedy, Drama, Romance",TRUE,Walt Disney Pictures,44
+2009,tt0898367,The Road,notalk-disagree,notalk,FAIL,25000000,USA,"Adventure, Drama",TRUE,The Weinstein Co./Dimension,73
+2009,tt0485601,The Secret of Kells,nowomen-disagree,nowomen,FAIL,8000000,"France, Belgium, Ireland, Netherlands, USA, Denmark, Brazil, Germany, Austria, Hungary","Animation, Adventure, Family, Fantasy",TRUE,GKIDS,91
+2009,tt0821642,The Soloist,notalk,notalk,FAIL,60000000,"UK, France, USA","Biography, Drama, Music",TRUE,Dreamworks/Paramount,57
+2009,tt1111422,The Taking of Pelham 123,nowomen,nowomen,FAIL,110000000,"USA, UK","Action, Crime, Thriller",TRUE,Sony/Columbia Pictures,51
+2009,tt0452694,The Time Traveler&#39;s Wife,dubious,dubious,FAIL,39000000,USA,"Drama, Fantasy, Romance, Sci-Fi",TRUE,Warner Bros. Pictures,39
+2009,tt1142988,The Ugly Truth,men,men,FAIL,38000000,USA,"Comedy, Romance",TRUE,Sony/Columbia Pictures,14
+2009,tt1139668,The Unborn,ok,ok,PASS,16000000,USA,"Drama, Horror, Mystery, Thriller",TRUE,Rogue Pictures,10
+2009,tt0962736,The Young Victoria,ok,ok,PASS,35000000,"UK, USA","Biography, Drama, History, Romance",TRUE,Apparition,77
+2009,tt1055369,Transformers: Revenge of the Fallen,ok-disagree,ok,PASS,210000000,USA,"Action, Adventure, Sci-Fi",TRUE,Paramount/Dreamworks,19
+2009,tt1049413,Up,notalk,notalk,FAIL,175000000,USA,"Animation, Adventure, Comedy, Family",TRUE,Walt Disney Pictures,98
+2009,tt1193138,Up in the Air,men-disagree,men,FAIL,30000000,USA,"Comedy, Drama, Romance",TRUE,Paramount Pictures,91
+2009,tt1068678,Veronika Decides to Die,ok,ok,PASS,9000000,USA,"Drama, Romance",TRUE,Entertainment One Films,-1
+2009,tt0409459,Watchmen,men-disagree,men,FAIL,138000000,USA,"Action, Drama, Mystery, Sci-Fi",TRUE,Warner Bros. Pictures,64
+2009,tt1178663,Whatever Works,dubious-disagree,dubious,FAIL,15000000,"USA, France","Comedy, Romance",TRUE,Sony Pictures Classics,49
+2009,tt0386117,Where the Wild Things Are,notalk,notalk,FAIL,100000000,"Germany, Australia, USA","Adventure, Drama, Family, Fantasy",TRUE,Warner Bros. Pictures,73
+2009,tt1172233,Whip It,ok,ok,PASS,15000000,USA,"Drama, Sport",TRUE,Fox Searchlight Pictures,84
+2009,tt0365929,Whiteout,ok,ok,PASS,35000000,"USA, Canada, France, Turkey","Action, Crime, Horror, Mystery, Thriller",TRUE,Warner Bros. Pictures,7
+2009,tt0458525,X-Men Origins: Wolverine,dubious-disagree,dubious,FAIL,150000000,"USA, UK","Action, Adventure, Sci-Fi, Thriller",TRUE,20th Century Fox,37
+2009,tt0448182,Yesterday Was a Lie,ok,ok,PASS,200000,USA,"Drama, Music, Mystery",TRUE,Helicon Arts Cooperative,83
+2009,tt0403702,Youth in Revolt,notalk-disagree,notalk,FAIL,18000000,USA,"Comedy, Drama, Romance",TRUE,The Weinstein Company,66
+2009,tt1156398,Zombieland,ok-disagree,ok,PASS,23600000,USA,"Adventure, Comedy, Horror, Sci-Fi",TRUE,Sony/Columbia Pictures,90
+2008,tt0478087,21,ok,ok,PASS,35000000,USA,"Crime, Drama, History, Thriller",TRUE,Sony/Columbia Pictures,35
+2008,tt0800308,Appaloosa,notalk,notalk,FAIL,20000000,USA,"Crime, Drama, Romance, Western",TRUE,Warner Bros. Pictures,77
+2008,tt0455824,Australia,men,men,FAIL,130000000,"UK, Australia, USA","Adventure, Comedy, Drama, Romance, War, Western",TRUE,20th Century Fox,55
+2008,tt0871426,Baby Mama,ok,ok,PASS,30000000,USA,"Comedy, Romance",TRUE,Universal Pictures,64
+2008,tt0799934,Be Kind Rewind,notalk,notalk,FAIL,20000000,"UK, France, USA",Comedy,TRUE,New Line Cinema,65
+2008,tt0960731,Bedtime Stories,ok,ok,PASS,80000000,USA,"Comedy, Family, Fantasy, Romance",TRUE,Walt Disney Pictures,26
+2008,tt0861689,Blindness,ok,ok,PASS,25000000,"Canada, Brazil, Japan","Drama, Mystery, Sci-Fi, Thriller",FALSE,Miramax,44
+2008,tt0397892,Bolt,ok-disagree,ok,PASS,150000000,USA,"Animation, Adventure, Comedy, Drama, Family",TRUE,Walt Disney Pictures,89
+2008,tt0887883,Burn After Reading,notalk,notalk,FAIL,37000000,"USA, UK, France","Comedy, Crime, Drama, Thriller",TRUE,Focus Features,78
+2008,tt0824747,Changeling,ok,ok,PASS,55000000,USA,"Biography, Crime, Drama, History, Mystery, Thriller",TRUE,Universal Pictures,61
+2008,tt0892255,Che: Part One,notalk,notalk,FAIL,58000000,"France, Spain, USA","Biography, Drama, History, War",TRUE,IFC Films,67
+2008,tt0970411,City of Ember,ok,ok,PASS,38000000,USA,"Adventure, Family, Fantasy, Sci-Fi",TRUE,Fox Walden,53
+2008,tt1060277,Cloverfield,ok,ok,PASS,25000000,USA,"Action, Horror, Sci-Fi, Thriller",TRUE,Paramount,77
+2008,tt0489018,Day of the Dead,ok,ok,PASS,18000000,USA,"Action, Horror, Thriller",TRUE,First Look International,14
+2008,tt0452608,Death Race,notalk,notalk,FAIL,65000000,"USA, Germany, UK","Action, Sci-Fi, Thriller",TRUE,Universal Pictures,42
+2008,tt1034303,Defiance,ok,ok,PASS,50000000,USA,"Action, Drama, History, Thriller, War",TRUE,Paramount Vantage,57
+2008,tt0832266,"Definitely, Maybe",ok,ok,PASS,7000000,"UK, France, Germany, USA","Comedy, Drama, Romance",TRUE,Universal Pictures,71
+2008,tt0483607,Doomsday,ok,ok,PASS,33000000,"UK, USA, South Africa, Germany","Action, Sci-Fi, Thriller",TRUE,Universal Pictures,51
+2008,tt0918927,Doubt,ok,ok,PASS,20000000,USA,"Drama, Mystery",TRUE,Miramax,80
+2008,tt1059786,Eagle Eye,notalk-disagree,notalk,FAIL,80000000,"USA, Germany","Action, Mystery, Thriller",TRUE,Paramount Studios,27
+2008,tt0808244,Easy Virtue,ok,ok,PASS,14000000,"UK, Canada","Comedy, Romance",FALSE,Sony Pictures Classics,52
+2008,tt1129423,Fireproof,men,men,FAIL,500000,USA,"Drama, Romance",TRUE,Sherwood Pictures,40
+2008,tt0486321,Fly Me to the Moon,nowomen,nowomen,FAIL,25000000,"Belgium, USA","Animation, Adventure, Family",TRUE,Summit Entertainment,19
+2008,tt0800039,Forgetting Sarah Marshall,ok,ok,PASS,30000000,USA,"Comedy, Drama, Romance",TRUE,Universal Pictures,83
+2008,tt0369436,Four Christmases,ok,ok,PASS,80000000,"Germany, USA","Comedy, Drama, Romance",TRUE,New Line Cinema,24
+2008,tt0870111,Frost/Nixon,notalk,notalk,FAIL,29000000,"UK, France, USA","Biography, Drama, History",TRUE,Universal Pictures,93
+2008,tt0978759,Frozen River,ok,ok,PASS,1000000,USA,"Crime, Drama",TRUE,Sony Pictures Classics,88
+2008,tt0876563,Gake no ue no Ponyo,ok,ok,PASS,34000000,Japan,"Animation, Adventure, Comedy, Family, Fantasy",FALSE,Walt Disney Pictures,92
+2008,tt0995039,Ghost Town,notalk,notalk,FAIL,20000000,USA,"Comedy, Drama, Fantasy, Romance",TRUE,DreamWorks/Paramount Distribution,85
+2008,tt1205489,Gran Torino,men-disagree,men,FAIL,25000000,"Germany, USA",Drama,TRUE,Warner Bros. Pictures/Village Roadshow,80
+2008,tt1104733,Hamlet 2,ok,ok,PASS,9000000,USA,"Comedy, Music",TRUE,Focus Features,62
+2008,tt0448157,Hancock,nowomen,nowomen,FAIL,150000000,USA,"Action, Drama, Fantasy",TRUE,Columbia Pictures,41
+2008,tt1227929,Herb &amp; Dorothy,ok,ok,PASS,82500000,USA,"Documentary, Biography",TRUE,Arthouse Films,96
+2008,tt0962726,High School Musical 3: Senior Year,ok,ok,PASS,11000000,USA,"Comedy, Drama, Family, Music, Musical, Romance",TRUE,Walt Disney Pictures,64
+2008,tt0465502,Igor,men,men,FAIL,30000000,"USA, France","Animation, Comedy, Family, Fantasy",TRUE,MGM,37
+2008,tt0780536,In Bruges,notalk,notalk,FAIL,15000000,"UK, USA","Comedy, Crime, Drama, Thriller",TRUE,Focus Features,83
+2008,tt0367882,Indiana Jones and the Kingdom of the Crystal Skull,notalk,notalk,FAIL,185000000,USA,"Action, Adventure",TRUE,Paramount Pictures,78
+2008,tt0494238,Inkheart,ok,ok,PASS,60000000,"Germany, UK, USA","Adventure, Family, Fantasy",TRUE,Warner Bros. Pictures/New Line Cinema,38
+2008,tt0371746,Iron Man,men-disagree,men,FAIL,186000000,USA,"Action, Adventure, Sci-Fi",TRUE,Paramount Pictures,93
+2008,tt0373051,Journey to the Center of the Earth,notalk,notalk,FAIL,45000000,USA,"Action, Adventure, Family, Fantasy, Sci-Fi",TRUE,Warner Bros. Pictures,61
+2008,tt0489099,Jumper,notalk,notalk,FAIL,82500000,"USA, Canada","Action, Adventure, Sci-Fi, Thriller",TRUE,20th Century Fox,15
+2008,tt0441773,Kung Fu Panda,notalk-disagree,notalk,FAIL,130000000,USA,"Animation, Action, Adventure, Comedy, Family",TRUE,Paramount Pictures,87
+2008,tt1139797,L&aring;t den r&auml;tte komma in (Let the Right One In),notalk-disagree,notalk,FAIL,4500000,Sweden,"Drama, Horror, Romance",FALSE,Magnet/Magnolia Pictures,98
+2008,tt0866439,Made of Honor,men,men,FAIL,40000000,"USA, UK","Comedy, Romance",TRUE,Sony Pictures/Columbia,15
+2008,tt0467197,Max Payne,ok,ok,PASS,35000000,"Canada, USA","Action, Crime, Drama, Mystery, Thriller",TRUE,20th Century Fox,16
+2008,tt0765476,Meet Dave,notalk,notalk,FAIL,60000000,USA,"Adventure, Comedy, Family, Romance, Sci-Fi",TRUE,20th Century Fox,20
+2008,tt1013753,Milk,notalk-disagree,notalk,FAIL,20000000,USA,"Biography, Drama",TRUE,Focus Features,93
+2008,tt1046997,Miracle at St. Anna,men,men,FAIL,45000000,"USA, Italy","Action, Drama, War",TRUE,Touchstone Pictures,33
+2008,tt0981227,Nick and Norah&#39;s Infinite Playlist,ok,ok,PASS,10000000,USA,"Comedy, Drama, Music, Romance",TRUE,Sony Pictures/Screen Gems,74
+2008,tt0410377,Nim&#39;s Island,ok,ok,PASS,37000000,USA,"Adventure, Family, Fantasy",TRUE,Fox Walden,51
+2008,tt0910936,Pineapple Express,men,men,FAIL,26000000,USA,"Action, Comedy, Crime",TRUE,N/A,-1
+2008,tt1226681,Pontypool,nowomen-disagree,nowomen,FAIL,1500000,Canada,"Fantasy, Horror, Thriller",FALSE,IFC Entertainment,84
+2008,tt0368563,Possession,ok,ok,PASS,25000000,USA,"Drama, Horror, Mystery, Thriller",TRUE,Yari Film Group,-1
+2008,tt0926129,Prom Night,ok,ok,PASS,18000000,"USA, Canada","Horror, Mystery",TRUE,Screen Gems,8
+2008,tt0830515,Quantum of Solace,notalk,notalk,FAIL,230000000,"UK, USA","Action, Adventure, Thriller",TRUE,Sony/MGM,65
+2008,tt1082868,Quarantine,ok,ok,PASS,12000000,USA,"Horror, Thriller",TRUE,Screen Gems,57
+2008,tt1084950,Rachel Getting Married,ok,ok,PASS,12000000,USA,"Drama, Romance",TRUE,Sony Pictures Classics,84
+2008,tt0959337,Revolutionary Road,ok,ok,PASS,45000000,"USA, UK","Drama, Romance",TRUE,Paramount Vantage,67
+2008,tt1032755,RocknRolla,notalk,notalk,FAIL,18000000,"UK, USA, France","Action, Crime, Thriller",TRUE,Warner Bros. Pictures/Dark Castle,60
+2008,tt0814314,Seven Pounds,ok,ok,PASS,54000000,USA,"Drama, Romance",TRUE,Sony Pictures,26
+2008,tt1000774,Sex and the City,ok,ok,PASS,57500000,USA,"Comedy, Drama, Romance",TRUE,Warner Bros. Pictures,49
+2008,tt1010048,Slumdog Millionaire,notalk,notalk,FAIL,14000000,UK,"Drama, Romance",FALSE,Fox Searchlight Pictures,91
+2008,tt0811080,Speed Racer,ok,ok,PASS,120000000,"USA, Australia, Germany","Action, Adventure, Comedy, Drama, Family, Sci-Fi, Sport",TRUE,Warner Bros. Pictures,40
+2008,tt0942903,Stargate: The Ark of Truth,dubious-disagree,dubious,FAIL,7000000,"USA, Canada","Action, Adventure, Drama, Fantasy, Sci-Fi",TRUE,MGM,-1
+2008,tt0838283,Step Brothers,notalk-disagree,notalk,FAIL,65000000,USA,Comedy,TRUE,Columbia Pictures,55
+2008,tt0862846,Sunshine Cleaning,ok,ok,PASS,5000000,USA,"Comedy, Drama",TRUE,Overture Films,74
+2008,tt0383028,"Synecdoche, New York",dubious,dubious,FAIL,20000000,USA,"Comedy, Drama",TRUE,Sydney Kimmel Entertainment,68
+2008,tt0936501,Taken,ok,ok,PASS,25000000,"France, USA","Action, Thriller",TRUE,20th Century Fox,58
+2008,tt0200465,The Bank Job,ok,ok,PASS,20000000,"UK, USA, Australia","Crime, Thriller",TRUE,Lionsgate,79
+2008,tt0844286,The Brothers Bloom,dubious,dubious,FAIL,20000000,USA,"Action, Adventure, Comedy, Crime, Drama, Romance",TRUE,Summit Entertainment,68
+2008,tt0499448,The Chronicles of Narnia: Prince Caspian,ok,ok,PASS,225000000,"USA, Poland, Slovenia, Czech Republic, UK","Action, Adventure, Family, Fantasy",TRUE,Walt Disney Pictures,67
+2008,tt0421715,The Curious Case of Benjamin Button,dubious-disagree,dubious,FAIL,160000000,USA,"Drama, Fantasy, Romance",TRUE,Paramount,71
+2008,tt0468569,The Dark Knight,dubious-disagree,dubious,FAIL,185000000,"USA, UK","Action, Crime, Drama, Thriller",TRUE,Warner Bros. Pictures/Legendary,94
+2008,tt0970416,The Day the Earth Stood Still,ok,ok,PASS,80000000,"USA, Canada","Drama, Sci-Fi, Thriller",TRUE,20th Century Fox,21
+2008,tt0406759,The Eye,ok,ok,PASS,12000000,"USA, Canada","Horror, Mystery",TRUE,Lionsgate Films,22
+2008,tt0865556,The Forbidden Kingdom,notalk-disagree,notalk,FAIL,55000000,"USA, China","Action, Adventure, Fantasy",TRUE,Lionsgate,64
+2008,tt0852713,The House Bunny,ok,ok,PASS,25000000,USA,"Comedy, Romance",TRUE,Sony Pictures/Columbia,43
+2008,tt0887912,The Hurt Locker,notalk-disagree,notalk,FAIL,15000000,USA,"Drama, Thriller, War",TRUE,Summit Entertainment,97
+2008,tt0800080,The Incredible Hulk,notalk,notalk,FAIL,137500000,USA,"Action, Adventure, Sci-Fi",TRUE,Universal Pictures,67
+2008,tt0981072,The Lucky Ones,ok,ok,PASS,14000000,USA,"Comedy, Drama, War",TRUE,Lionsgate,37
+2008,tt0467200,The Other Boleyn Girl,ok,ok,PASS,40000000,"UK, USA","Biography, Drama, History, Romance",TRUE,Sony Pictures/Columbia,42
+2008,tt0976051,The Reader,notalk,notalk,FAIL,32500000,"Germany, USA","Drama, Romance",TRUE,The Weinstein Co./MGM,63
+2008,tt0416212,The Secret Life of Bees,ok,ok,PASS,11000000,USA,Drama,TRUE,Fox Searchlight,59
+2008,tt1018785,The Sisterhood of the Traveling Pants 2,ok,ok,PASS,27000000,USA,"Comedy, Drama, Romance",TRUE,Warner Bros. Pictures,65
+2008,tt0482606,The Strangers,dubious-disagree,dubious,FAIL,9000000,USA,"Horror, Mystery, Thriller",TRUE,Universal Pictures,48
+2008,tt420238,The Tale of Despereaux,ok,ok,PASS,60000000,null,null,FALSE,null,-1
+2008,tt0430770,The Women,ok,ok,PASS,16000000,USA,"Comedy, Drama",TRUE,Picturehouse Entertainment,13
+2008,tt1125849,The Wrestler,notalk,notalk,FAIL,6000000,"USA, France","Drama, Sport",TRUE,Fox Searchlight Pictures,98
+2008,tt0882978,Three Kingdoms: Resurrection of the Dragon,notalk,notalk,FAIL,20000000,"China, South Korea, Hong Kong","Action, Drama, History",FALSE,Amero PT,-1
+2008,tt0800241,Transsiberian,ok,ok,PASS,15000000,"UK, Germany, Spain, Lithuania","Crime, Drama, Mystery, Thriller",FALSE,First Look,93
+2008,tt0942385,Tropic Thunder,nowomen,nowomen,FAIL,90000000,"USA, UK, Germany","Action, Adventure, Comedy, War",TRUE,DreamWorks/Paramount Studios,81
+2008,tt1099212,Twilight,ok-disagree,ok,PASS,37000000,USA,"Drama, Fantasy, Romance",TRUE,Summit Entertainment,49
+2008,tt0985699,Valkyrie,notalk,notalk,FAIL,90000000,"USA, Germany","Drama, History, Thriller, War",TRUE,MGM,62
+2008,tt0497465,Vicky Cristina Barcelona,ok,ok,PASS,16000000,"Spain, USA","Comedy, Drama, Romance",TRUE,The Weinstein Co.,81
+2008,tt0910970,WALL-E,notalk-disagree,notalk,FAIL,180000000,USA,"Animation, Adventure, Family, Sci-Fi",TRUE,Walt Disney Pictures,95
+2008,tt1185616,Waltz with Bashir,nowomen,nowomen,FAIL,2000000,"Israel, France, Germany, USA, Finland, Switzerland, Belgium, Australia","Animation, Biography, Drama, History, Mystery, War",TRUE,Sony Pictures Classics,96
+2008,tt0493464,Wanted,notalk,notalk,FAIL,75000000,"USA, Germany","Action, Crime, Fantasy, Thriller",TRUE,Universal Pictures,71
+2008,tt0494652,"Welcome Home, Roscoe Jenkins",dubious,dubious,FAIL,27500000,USA,"Comedy, Romance",TRUE,Universal Pictures,23
+2008,tt1152850,Wendy and Lucy,ok,ok,PASS,300000,USA,Drama,TRUE,Oscilloscope Pictures,85
+2008,tt1033643,What Happens In Vegas,ok,ok,PASS,35000000,USA,"Comedy, Romance",TRUE,20th Century Fox,26
+2008,tt1068680,Yes Man,notalk-disagree,notalk,FAIL,50000000,"USA, UK","Comedy, Romance",TRUE,Warner Bros. Pictures/Village Roadshow,46
+2007,tt1038988,[Rec],ok,ok,PASS,2100000,Spain,"Horror, Mystery, Thriller",FALSE,Odeon Sky Filmworks,88
+2007,tt0450385,1408,ok,ok,PASS,22500000,USA,"Drama, Horror",TRUE,MGM/Dimension,79
+2007,tt0463854,28 Weeks Later,ok,ok,PASS,15000000,"UK, Spain","Drama, Horror, Sci-Fi",FALSE,Fox Atomic,71
+2007,tt0381849,3:10 to Yuma,nowomen,nowomen,FAIL,48000000,USA,"Action, Crime, Drama, Western",TRUE,Lionsgate Films,89
+2007,tt0389722,30 Days of Night,men,men,FAIL,30000000,"USA, New Zealand","Action, Horror, Thriller",TRUE,Sony Pictures/Columbia,51
+2007,tt0411061,88 Minutes,notalk,notalk,FAIL,30000000,"USA, Germany, Canada","Crime, Drama, Mystery, Thriller",TRUE,Sony Pictures Entertainment,5
+2007,tt0445922,Across the Universe,ok,ok,PASS,45000000,"USA, UK","Drama, Fantasy, Music, Musical, Romance",TRUE,Sony,53
+2007,tt0783233,Atonement,ok,ok,PASS,30000000,"UK, France, USA","Drama, Mystery, Romance, War",TRUE,Focus Features,83
+2007,tt0416508,Becoming Jane,ok,ok,PASS,16500000,"UK, Ireland","Biography, Drama, Romance",FALSE,Miramax Films,58
+2007,tt0442933,Beowulf,ok,ok,PASS,150000000,USA,"Animation, Action, Adventure, Fantasy",TRUE,Paramount Pictures,71
+2007,tt0445934,Blades of Glory,ok,ok,PASS,61000000,USA,"Comedy, Sport",TRUE,Paramount Pictures,70
+2007,tt0398808,Bridge to Terabithia,ok,ok,PASS,25000000,USA,"Adventure, Drama, Family, Fantasy",TRUE,Buena Vista,85
+2007,tt0283503,Brooklyn Rules,ok,ok,PASS,8000000,USA,"Crime, Drama",TRUE,City Lights Pictures,45
+2007,tt0423977,Charlie Bartlett,men,men,FAIL,12000000,USA,"Comedy, Drama, Romance",TRUE,MGM,57
+2007,tt0472062,Charlie Wilson&#39;s War,ok,ok,PASS,75000000,"USA, Germany","Biography, Comedy, Drama, History",TRUE,Universal Pictures,82
+2007,tt0795368,Death at a Funeral,ok-disagree,ok,PASS,21000000,"USA, Germany, UK, Netherlands",Comedy,TRUE,N/A,-1
+2007,tt0848557,Diary of the Dead,ok,ok,PASS,2750000,USA,"Fantasy, Horror, Sci-Fi, Thriller",TRUE,The Weinstein Company,61
+2007,tt0486822,Disturbia,ok-disagree,ok,PASS,20000000,null,null,FALSE,null,-1
+2007,tt0765443,Eastern Promises,ok,ok,PASS,50000000,"UK, Canada, USA","Crime, Drama, Thriller",TRUE,Focus Features,89
+2007,tt0461770,Enchanted,ok,ok,PASS,85000000,USA,"Animation, Comedy, Family, Fantasy, Musical, Romance",TRUE,Walt Disney Pictures,93
+2007,tt0486576,Fantastic Four: Rise of the Silver Surfer,dubious,dubious,FAIL,120000000,"USA, Germany, UK","Action, Adventure, Fantasy, Sci-Fi",TRUE,20th Century Fox,37
+2007,tt0452623,Gone Baby Gone,ok,ok,PASS,19000000,USA,"Crime, Drama, Mystery, Thriller",TRUE,Miramax,94
+2007,tt0427327,Hairspray,ok,ok,PASS,75000000,"USA, UK","Comedy, Drama, Musical, Romance",TRUE,New Line Cinema,91
+2007,tt0373883,Halloween,ok,ok,PASS,15000000,USA,Horror,TRUE,MGM,25
+2007,tt0367959,Hannibal Rising,notalk,notalk,FAIL,50000000,"UK, Czech Republic, France, Italy, USA","Adventure, Crime, Drama, Thriller, War",TRUE,MGM,15
+2007,tt0373889,Harry Potter and the Order of the Phoenix,ok-disagree,ok,PASS,150000000,"UK, USA","Adventure, Family, Fantasy, Mystery",TRUE,Warner Bros. Pictures,77
+2007,tt0465494,Hitman,nowomen-disagree,nowomen,FAIL,17500000,"France, USA","Action, Crime, Drama, Thriller",TRUE,Peace Arch Films,-1
+2007,tt0498353,Hostel: Part II,ok,ok,PASS,7500000,"USA, Czech Republic, Italy, Iceland, Slovakia","Crime, Horror, Thriller",TRUE,Lionsgate,44
+2007,tt0425112,Hot Fuzz,notalk-disagree,notalk,FAIL,16000000,"UK, France","Action, Comedy, Mystery",FALSE,Rogue Pictures/Focus Features,91
+2007,tt0787475,Hot Rod,notalk,notalk,FAIL,25000000,USA,"Comedy, Sport",TRUE,Paramount Pictures,39
+2007,tt0480249,I Am Legend,ok-disagree,ok,PASS,150000000,USA,"Drama, Sci-Fi, Thriller",TRUE,Warner Bros. Pictures,69
+2007,tt0758758,Into the Wild,notalk,notalk,FAIL,20000000,USA,"Adventure, Biography, Drama",TRUE,Paramount Vantage,82
+2007,tt0467406,Juno,ok,ok,PASS,7000000,USA,"Comedy, Drama",TRUE,Fox Searchlight,94
+2007,tt0478311,Knocked Up,ok-disagree,ok,PASS,27500000,USA,"Comedy, Drama, Romance",TRUE,Universal,90
+2007,tt0805564,Lars and the real Girl,ok,ok,PASS,12500000,"USA, Canada","Comedy, Drama, Romance",TRUE,MGM/Sidney Kimmel Entertainment,81
+2007,tt0337978,Live Free or Die Hard,notalk,notalk,FAIL,110000000,"USA, UK","Action, Thriller",TRUE,20th Century Fox,82
+2007,tt0465538,Michael Clayton,men-disagree,men,FAIL,21500000,USA,"Crime, Drama, Mystery, Thriller",TRUE,Warner Bros. Pictures,90
+2007,tt0758766,Music and Lyrics,men,men,FAIL,40000000,USA,"Comedy, Music, Romance",TRUE,Warner Bros. Pictures,62
+2007,tt0477348,No Country for Old Men,dubious,dubious,FAIL,25000000,USA,"Crime, Drama, Thriller",TRUE,Miramax Films,93
+2007,tt0481141,No Reservations,ok,ok,PASS,28000000,USA,"Comedy, Drama, Romance",TRUE,Warner Bros. Pictures,42
+2007,tt1179904,Paranormal Activity,dubious,dubious,FAIL,450000,USA,"Horror, Mystery, Thriller",TRUE,Paramount Pictures,83
+2007,tt0808417,Persepolis,ok,ok,PASS,7300000,"France, USA","Animation, Biography, Drama, History, War",TRUE,Sony Pictures Classics,96
+2007,tt0449088,Pirates of the Caribbean: At World&#39;s End,ok,ok,PASS,300000000,USA,"Action, Adventure, Fantasy",TRUE,Buena Vista,44
+2007,tt0477071,Premonition,ok,ok,PASS,20000000,USA,"Drama, Fantasy, Mystery, Thriller",TRUE,Sony,8
+2007,tt0382932,Ratatouille,nowomen-disagree,nowomen,FAIL,150000000,USA,"Animation, Adventure, Comedy, Drama, Family, Fantasy",TRUE,Disney/Pixar,96
+2007,tt0432021,Resident Evil: Extinction,ok,ok,PASS,45000000,"France, Australia, Germany, UK, USA, Mexico, Canada","Action, Horror, Sci-Fi, Thriller",TRUE,Sony Pictures,23
+2007,tt00293564,Rush Hour 3,notalk,notalk,FAIL,180000000,"USA, Germany","Action, Comedy, Crime, Thriller",TRUE,New Line Cinema,18
+2007,tt0822854,Shooter,notalk-disagree,notalk,FAIL,60000000,USA,"Action, Drama, Thriller",TRUE,Paramount Pictures,47
+2007,tt0413267,Shrek the Third,ok-disagree,ok,PASS,160000000,USA,"Animation, Adventure, Comedy, Family, Fantasy",TRUE,Dreamworks,41
+2007,tt0964587,St. Trinian&#39;s,ok,ok,PASS,11400000,UK,"Comedy, Family",FALSE,NeoClassics Films,31
+2007,tt0486655,Stardust,ok,ok,PASS,70000000,"UK, USA","Adventure, Family, Fantasy, Romance",TRUE,Paramount Pictures,76
+2007,tt0448134,Sunshine,notalk-disagree,notalk,FAIL,40000000,"UK, USA","Adventure, Sci-Fi, Thriller",TRUE,N/A,-1
+2007,tt0829482,Superbad,notalk-disagree,notalk,FAIL,17500000,USA,Comedy,TRUE,Sony Pictures/Columbia,87
+2007,tt0815244,Sydney White,ok,ok,PASS,16500000,USA,"Comedy, Drama, Romance",TRUE,Universal Pictures,36
+2007,tt0780622,Teeth,dubious-disagree,dubious,FAIL,2000000,USA,"Comedy, Fantasy, Horror, Thriller",TRUE,Roadside Attractions,79
+2007,tt0825232,The Bucket List,notalk,notalk,FAIL,45000000,USA,"Adventure, Comedy, Drama",TRUE,Warner Bros. Pictures,40
+2007,tt0385752,The Golden Compass,ok,ok,PASS,205000000,"UK, USA","Adventure, Family, Fantasy",TRUE,New Line Cinema,42
+2007,tt0419887,The Kite Runner,nowomen,nowomen,FAIL,20000000,"USA, China, UK",Drama,TRUE,Paramount Vantage,66
+2007,tt0756683,The Man from Earth,notalk,notalk,FAIL,200000,USA,"Drama, Fantasy, Sci-Fi",TRUE,STARZ MEDIA LLC.,-1
+2007,tt0425430,The Messengers,ok,ok,PASS,16000000,USA,"Horror, Mystery, Thriller",TRUE,Screen Gems,12
+2007,tt0884328,The Mist,ok,ok,PASS,13000000,USA,"Horror, Sci-Fi",TRUE,The Weinstein Company,72
+2007,tt0481369,The Number 23,notalk,notalk,FAIL,32000000,"USA, Germany","Crime, Mystery, Thriller",TRUE,New Line,8
+2007,tt0775529,The Savages,ok,ok,PASS,9000000,USA,"Comedy, Drama",TRUE,Fox Searchlight Pictures,89
+2007,tt0780607,The Signal,men,men,FAIL,50000,null,null,FALSE,null,-1
+2007,tt0462538,The Simpsons Movie,ok,ok,PASS,72500000,USA,"Animation, Adventure, Comedy",TRUE,20th Century Fox,88
+2007,tt0857191,The Visitor,dubious,dubious,FAIL,4000000,USA,Drama,TRUE,Overture Films,89
+2007,tt0469494,There Will Be Blood,nowomen-disagree,nowomen,FAIL,25000000,USA,Drama,TRUE,Paramount Vantage,91
+2007,tt0453556,TMNT,notalk-disagree,notalk,FAIL,35000000,"Hong Kong, USA","Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",TRUE,Warner Bros. Pictures,34
+2007,tt0418279,Transformers,notalk-disagree,notalk,FAIL,151000000,USA,"Action, Adventure, Sci-Fi",TRUE,Dreamworks,57
+2007,tt0861739,Tropa de Elite,ok-disagree,ok,PASS,6537890,"Brazil, USA, Argentina","Action, Crime, Drama, Thriller",TRUE,IFC Films,53
+2007,tt0473308,Waitress,ok,ok,PASS,1500000,USA,"Comedy, Drama, Romance",TRUE,Fox Searchlight Pictures,90
+2007,tt0498399,We Own the Night,nowomen,nowomen,FAIL,28000000,USA,"Crime, Drama, Thriller",TRUE,Sony/Columbia,57
+2007,tt0496436,White Noise 2: The Light,notalk,notalk,FAIL,10000000,"USA, Canada","Drama, Fantasy, Horror, Thriller",TRUE,Universal Studios,75
+2006,tt0416449,300,nowomen-disagree,nowomen,FAIL,60000000,"USA, Canada, Bulgaria","Action, Fantasy, War",TRUE,Warner Bros. Pictures,60
+2006,tt0405296,A Scanner Darkly,notalk,notalk,FAIL,20000000,USA,"Animation, Crime, Drama, Mystery, Sci-Fi, Thriller",TRUE,Warner Independent Pictures,67
+2006,tt0437800,Akeelah and the Bee,ok,ok,PASS,8000000,USA,"Drama, Family",TRUE,Lionsgate Releasing,85
+2006,tt0429591,Aquamarine,ok,ok,PASS,12000000,USA,"Comedy, Family, Fantasy, Romance",TRUE,20th Century Fox,51
+2006,tt0416496,Bandidas,ok,ok,PASS,35000000,"France, Mexico, USA","Action, Comedy, Crime, Western",TRUE,20th Century Fox,62
+2006,tt0454082,Black Christmas,ok,ok,PASS,9000000,"USA, Canada",Horror,TRUE,N/A,-1
+2006,tt0450259,Blood Diamond,notalk,notalk,FAIL,100000000,"USA, Germany","Adventure, Drama, Thriller",TRUE,Warner Bros. Pictures,63
+2006,tt0479647,"Bon Cop, Bad Cop",notalk,notalk,FAIL,8000000,Canada,"Action, Comedy, Crime, Thriller",FALSE,Vivafilm,78
+2006,tt0443453,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,notalk,notalk,FAIL,18000000,"USA, UK",Comedy,TRUE,20th Century Fox,91
+2006,tt0470705,Bug,ok,ok,PASS,4000000,"USA, Germany","Drama, Thriller",TRUE,Lionsgate Films,61
+2006,tt0317219,Cars,notalk-disagree,notalk,FAIL,70000000,USA,"Animation, Comedy, Family, Fantasy, Sport",TRUE,Buena Vista,74
+2006,tt0381061,Casino Royale,notalk,notalk,FAIL,102000000,"UK, Czech Republic, USA, Germany, Bahamas","Action, Adventure, Thriller",TRUE,Sony,94
+2006,tt0206634,Children of Men,ok,ok,PASS,76000000,"USA, UK, Japan","Drama, Sci-Fi, Thriller",TRUE,Universal Pictures,92
+2006,tt0424345,Clerks II,dubious,dubious,FAIL,5000000,USA,Comedy,TRUE,MGM,63
+2006,tt0479884,Crank,nowomen,nowomen,FAIL,12000000,USA,"Action, Crime, Thriller",TRUE,Lionsgate,61
+2006,tt0405094,Das Leben Der Anderen,nowomen-disagree,nowomen,FAIL,2000000,Germany,"Drama, Thriller",FALSE,Sony Pictures Classics,92
+2006,tt0398913,DOA: Dead or Alive,ok,ok,PASS,30000000,"UK, Germany, USA, Japan","Action, Adventure",TRUE,The Weinstein Co.,33
+2006,tt0457430,El laberinto del fauno (Pan's Labyrinth),ok-disagree,ok,PASS,16000000,"Mexico, Spain, USA","Drama, Fantasy, War",TRUE,Picturehouse,95
+2006,tt0449010,Eragon,notalk,notalk,FAIL,100000000,"USA, UK, Hungary","Action, Adventure, Family, Fantasy",TRUE,N/A,-1
+2006,tt0457572,Fido,men,men,FAIL,8000000,Canada,"Comedy, Drama, Horror, Sci-Fi",FALSE,Roadside Attractions/Samuel Goldwyn,72
+2006,tt0414982,Final Destination 3,ok,ok,PASS,25000000,"USA, Germany",Horror,TRUE,New Line Cinema,43
+2006,tt0424095,Flushed Away,nowomen,nowomen,FAIL,149000000,"UK, USA","Animation, Adventure, Comedy, Family, Fantasy",TRUE,Paramount,73
+2006,tt0470765,For Your Consideration,ok,ok,PASS,12000000,USA,Comedy,TRUE,Warner Independent Pictures,52
+2006,tt0436331,Friends with Money,ok,ok,PASS,6500000,USA,"Comedy, Drama, Romance",TRUE,N/A,-1
+2006,tt0438097,Ice Age: The Meltdown,notalk,notalk,FAIL,75000000,null,null,FALSE,null,-1
+2006,tt0417225,Idlewild,ok,ok,PASS,15000000,USA,"Crime, Drama, Musical, Romance",TRUE,Universal Pictures,47
+2006,tt0454848,Inside Man,dubious-disagree,dubious,FAIL,50000000,USA,"Crime, Drama, Mystery, Thriller",TRUE,Universal Pictures,86
+2006,tt0493430,Jackass Number Two,notalk,notalk,FAIL,11000000,USA,"Documentary, Action, Comedy",TRUE,Paramount,63
+2006,tt0452637,Lady in the Water,men,men,FAIL,75000000,USA,"Drama, Fantasy, Mystery, Thriller",TRUE,Warner Bros. Pictures,25
+2006,tt0408985,Last Holiday,ok,ok,PASS,45000000,USA,"Comedy, Romance",TRUE,Paramount Pictures,56
+2006,tt0498380,Letters from Iwo Jima,notalk,notalk,FAIL,13000000,USA,"Drama, History, War",TRUE,Warner Bros. Pictures,91
+2006,tt0404203,Little Children,ok,ok,PASS,14000000,USA,"Drama, Romance",TRUE,New Line Cinema,80
+2006,tt0449059,Little Miss Sunshine,ok,ok,PASS,8000000,USA,"Comedy, Drama",TRUE,Fox Searchlight,91
+2006,tt0490166,London To Brighton,ok,ok,PASS,825000,UK,"Crime, Drama, Thriller",FALSE,Outsider Films,67
+2006,tt0425210,Lucky Number Slevin,notalk-disagree,notalk,FAIL,27000000,"Germany, UK, USA, Canada","Crime, Drama, Mystery, Thriller",TRUE,N/A,-1
+2006,tt0483726,Man of the Year,notalk,notalk,FAIL,20000000,USA,"Comedy, Drama, Romance, Thriller",TRUE,Universal Pictures,22
+2006,tt0422720,Marie Antoinette,ok,ok,PASS,40000000,"USA, France, Japan","Biography, Drama, History, Romance",TRUE,Sony Pictures,56
+2006,tt0482546,Miss Potter,ok,ok,PASS,30000000,"UK, USA, Isle Of Man","Biography, Drama",TRUE,MGM,67
+2006,tt0385880,Monster House,ok,ok,PASS,75000000,USA,"Animation, Adventure, Comedy, Family, Fantasy, Mystery",TRUE,Sony Pictures Releasing,74
+2006,tt0457510,Nacho Libre,nowomen-disagree,nowomen,FAIL,32000000,"Germany, USA","Comedy, Family, Sport",TRUE,Paramount Pictures,40
+2006,tt0477347,Night at the Museum,ok,ok,PASS,110000000,"USA, UK","Adventure, Comedy, Family, Fantasy",TRUE,20th Century Fox,43
+2006,tt0465551,Notes on a Scandal,ok,ok,PASS,27500000,UK,"Crime, Drama, Romance, Thriller",FALSE,Fox Searchlight Pictures,87
+2006,tt0907657,Once,men,men,FAIL,150000,Ireland,"Drama, Music, Romance",FALSE,Fox Searchlight,97
+2006,tt0400717,Open Season,notalk,notalk,FAIL,85000000,USA,"Animation, Adventure, Comedy, Family, Fantasy",TRUE,Sony Pictures,48
+2006,tt0401711,Paris je t&#39;aime,dubious,dubious,FAIL,13000000,"France, Liechtenstein, Switzerland, Germany, USA","Comedy, Drama, Romance",TRUE,First Look Pictures,86
+2006,tt0396171,Perfume: The Story of a Murderer,ok,ok,PASS,63700000,"Germany, France, Spain, USA","Crime, Drama",TRUE,Dreamworks,58
+2006,tt0383574,Pirates of the Caribbean: Dead Man&#39;s Chest,men-disagree,men,FAIL,225000000,USA,"Action, Adventure, Fantasy",TRUE,Buena Vista,53
+2006,tt0409182,Poseidon,men,men,FAIL,160000000,USA,"Action, Adventure, Drama, Thriller",TRUE,Warner Bros. Pictures,33
+2006,tt0451176,Quinceanera,ok,ok,PASS,400000,USA,Drama,TRUE,Sony Pictures Classics,86
+2006,tt0405508,Rang De Basanti,ok,ok,PASS,5300000,India,"Comedy, Drama",FALSE,N/A,-1
+2006,tt0439289,Running with Scissors,ok,ok,PASS,12000000,USA,"Comedy, Drama",TRUE,Sony Pictures,31
+2006,tt0454945,She&#39;s the Man,men-disagree,men,FAIL,25000000,"USA, Canada","Comedy, Romance, Sport",TRUE,DreamWorks SKG,44
+2006,tt0423169,Sherrybaby,dubious,dubious,FAIL,2000000,USA,Drama,TRUE,N/A,-1
+2006,tt0367027,Shortbus,ok,ok,PASS,2000000,USA,"Drama, Romance",TRUE,ThinkFilm,67
+2006,tt0384537,Silent Hill,ok,ok,PASS,50000000,"Canada, France, Japan, USA",Horror,TRUE,Sony Pictures,31
+2006,tt0439815,Slither,ok,ok,PASS,15250000,"Canada, USA","Comedy, Horror, Sci-Fi",TRUE,Universal Pictures,86
+2006,tt0475394,Smokin&#39; Aces,dubious-disagree,dubious,FAIL,17000000,"UK, France, USA","Action, Crime, Drama, Thriller",TRUE,Universal Pictures,30
+2006,tt0417148,Snakes on a Plane,ok,ok,PASS,33000000,"USA, Germany","Action, Crime, Thriller",TRUE,New Line Cinema,69
+2006,tt0405336,Southland Tales,ok,ok,PASS,17000000,"France, Germany, USA","Comedy, Drama, Mystery, Sci-Fi, Thriller",TRUE,Samuel Goldwyn Films,38
+2006,tt0430634,Stick It,ok,ok,PASS,20000000,"Germany, USA","Comedy, Drama, Sport",TRUE,Buena Vista,31
+2006,tt0420223,Stranger Than Fiction,ok,ok,PASS,30000000,USA,"Comedy, Drama, Fantasy, Romance",TRUE,Sony Pictures,72
+2006,tt0348150,Superman Returns,notalk,notalk,FAIL,232000000,USA,"Action, Adventure, Sci-Fi",TRUE,Warner Bros. Pictures,75
+2006,tt0446046,Take the Lead,ok,ok,PASS,30000000,USA,"Drama, Music",TRUE,New Line Cinema,43
+2006,tt0429589,The Ant Bully,men,men,FAIL,45000000,USA,"Animation, Adventure, Comedy, Family, Fantasy",TRUE,Warner Bros. Pictures,62
+2006,tt0452594,The Break Up,notalk,notalk,FAIL,52000000,USA,"Comedy, Drama, Romance",TRUE,Universal Pictures,34
+2006,tt0382625,The Da Vinci Code,notalk,notalk,FAIL,125000000,"USA, Malta, France, UK","Mystery, Thriller",TRUE,Sony Pictures,24
+2006,tt0783238,The Dead Girl,ok,ok,PASS,3300000,USA,"Crime, Drama, Mystery, Thriller",TRUE,Peace Arch,-1
+2006,tt0407887,The Departed,notalk,notalk,FAIL,90000000,USA,"Crime, Drama, Thriller",TRUE,Warner Bros. Pictures,91
+2006,tt0458352,The Devil Wears Prada,ok,ok,PASS,35000000,"USA, France","Comedy, Drama",TRUE,20th Century Fox,75
+2006,tt0414993,The Fountain,dubious,dubious,FAIL,35000000,"Canada, USA","Drama, Sci-Fi",TRUE,Warner Bros. Pictures,52
+2006,tt0433386,The Grudge 2,ok,ok,PASS,20000000,"USA, Japan","Horror, Thriller",TRUE,Sony Pictures Entertainment,12
+2006,tt0464049,The History Boys,notalk,notalk,FAIL,3700000,UK,"Comedy, Drama, Romance",FALSE,Fox Searchlight,66
+2006,tt0457939,The Holiday,ok-disagree,ok,PASS,85000000,USA,"Comedy, Romance",TRUE,Sony Pictures,48
+2006,tt0468492,The Host,ok,ok,PASS,50000000,South Korea,"Action, Drama, Horror, Sci-Fi",FALSE,Magnolia Pictures,93
+2006,tt0443543,The Illusionist,nowomen,nowomen,FAIL,16500000,"USA, Czech Republic","Drama, Mystery, Romance, Thriller",TRUE,Yari Film Group,73
+2006,tt0410297,The Lake House,dubious,dubious,FAIL,40000000,USA,"Drama, Fantasy, Romance",TRUE,Warner Bros. Pictures,36
+2006,tt0446755,The Painted Veil,dubious,dubious,FAIL,19400000,"China, USA, Canada","Drama, Romance",TRUE,Warner Independent Pictures,74
+2006,tt0482571,The Prestige,notalk,notalk,FAIL,40000000,"USA, UK","Drama, Mystery, Sci-Fi, Thriller",TRUE,Buena Vista Pictures,76
+2006,tt0454921,The Pursuit of Happyness,nowomen-disagree,nowomen,FAIL,55000000,USA,"Biography, Drama",TRUE,Sony Pictures,67
+2006,tt0436697,The Queen,dubious-disagree,dubious,FAIL,15000000,"UK, USA, France, Italy","Biography, Drama, History",TRUE,Miramax Films,97
+2006,tt0460989,The Wind That Shakes the Barley,notalk-disagree,notalk,FAIL,8300000,"Ireland, UK, Germany, Italy, Spain, France, Belgium, Switzerland, Netherlands","Drama, War",FALSE,IFC First Take,89
+2006,tt0370032,Ultraviolet,notalk,notalk,FAIL,30000000,USA,"Action, Adventure, Sci-Fi",TRUE,Sony Pictures,9
+2006,tt0441909,Volver,ok,ok,PASS,9400000,Spain,"Comedy, Drama",FALSE,Sony Pictures Classics,91
+2006,tt0758794,We Are Marshall,notalk,notalk,FAIL,65000000,USA,"Drama, Sport",TRUE,Warner Bros. Pictures,48
+2006,tt0455857,When a Stranger Calls,ok,ok,PASS,15000000,USA,"Horror, Thriller",TRUE,Screen Gems,9
+2006,tt0477139,Wristcutters: A Love Story,notalk,notalk,FAIL,1000000,"USA, UK","Comedy, Drama, Fantasy, Romance",TRUE,N/A,-1
+2006,tt0376994,X-Men: The Last Stand,ok,ok,PASS,210000000,"Canada, USA, UK","Action, Adventure, Sci-Fi, Thriller",TRUE,20th Century Fox,58
+2006,tt0463034,"You, Me and Dupree",notalk,notalk,FAIL,54000000,USA,"Comedy, Romance",TRUE,Universal Pictures,20
+2006,tt0383060,Zoom,ok,ok,PASS,35000000,USA,"Action, Adventure, Comedy, Family, Sci-Fi",TRUE,Sony Pictures Entertainment,3
+2006,tt0389557,Zwartboek,ok,ok,PASS,22000000,"Netherlands, Germany, UK, Belgium","Drama, Thriller, War",FALSE,Sony Picture Classics,75
+2005,tt0402022,AEon Flux,ok,ok,PASS,55000000,USA,"Action, Adventure, Sci-Fi, Thriller",TRUE,Paramount Pictures,9
+2005,tt0398712,Assault on Precinct 13,ok,ok,PASS,30000000,"France, USA","Action, Crime, Drama, Thriller",TRUE,Focus Features,59
+2005,tt0372784,Batman Begins,notalk,notalk,FAIL,150000000,"USA, UK","Action, Adventure",TRUE,Warner Bros. Pictures,84
+2005,tt0388500,Beauty Shop,ok,ok,PASS,25000000,USA,Comedy,TRUE,MGM/UA,38
+2005,tt0374536,Bewitched,ok,ok,PASS,80000000,USA,"Comedy, Fantasy, Romance",TRUE,Columbia Pictures,24
+2005,tt0383222,BloodRayne,dubious,dubious,FAIL,25000000,"Germany, USA","Action, Adventure, Fantasy, Horror",TRUE,Fantastic Films International,4
+2005,tt0357507,Boogeyman,men,men,FAIL,20000000,"USA, New Zealand, Germany","Drama, Horror, Mystery, Thriller",TRUE,Screen Gems,13
+2005,tt0439478,Boynton Beach Club,ok,ok,PASS,2900000,USA,"Comedy, Romance",TRUE,Samuel Goldwyn Films,60
+2005,tt0393109,Brick,notalk,notalk,FAIL,450000,USA,"Action, Crime, Drama, Mystery, Thriller",TRUE,Focus Features,79
+2005,tt0388795,Brokeback Mountain,notalk,notalk,FAIL,13900000,"USA, Canada","Drama, Romance",TRUE,Focus Features,87
+2005,tt0379725,Capote,dubious,dubious,FAIL,7000000,"USA, Canada","Biography, Crime, Drama, History",TRUE,Sony Pictures Classics,90
+2005,tt0367594,Charlie and the Chocolate Factory,ok,ok,PASS,150000000,"USA, UK, Australia","Adventure, Comedy, Family, Fantasy, Musical",TRUE,Warner Bros. Pictures,82
+2005,tt0451094,Chinjeolhan geumjassi,ok,ok,PASS,4500000,South Korea,"Crime, Drama, Thriller",FALSE,Picture This! Entertainment,76
+2005,tt0352248,Cinderella Man,men,men,FAIL,88000000,USA,"Biography, Drama, Sport",TRUE,Universal Pictures,80
+2005,tt0393162,Coach Carter,ok,ok,PASS,45000000,"USA, Germany","Biography, Drama, Sport",TRUE,Paramount Pictures,64
+2005,tt0360486,Constantine,notalk,notalk,FAIL,75000000,"USA, Germany","Action, Fantasy, Horror, Mystery",TRUE,Warner Bros. Pictures,46
+2005,tt0435623,Conversations with Other Women,nowomen-disagree,nowomen,FAIL,450000,"UK, USA","Comedy, Drama, Romance",TRUE,Fabrication Films,74
+2005,tt0121164,Corpse Bride,dubious,dubious,FAIL,30000000,"USA, UK","Animation, Drama, Family, Fantasy, Musical, Romance",TRUE,Warner Bros. Pictures,84
+2005,tt0257516,Cursed,ok,ok,PASS,35000000,"Germany, USA","Comedy, Horror",TRUE,N/A,-1
+2005,tt0342258,Danny the dog,notalk,notalk,FAIL,43000000,"France, USA, UK","Action, Crime, Drama, Thriller",TRUE,Focus Features,65
+2005,tt0382628,Dark Water,ok,ok,PASS,60000000,USA,"Drama, Horror, Mystery",TRUE,Buena Vista,47
+2005,tt0342272,Dear Wendy,notalk,notalk,FAIL,8000000,"Denmark, France, Germany, UK","Comedy, Crime, Drama, Romance",FALSE,Wellspring Media,36
+2005,tt0421054,Domino,ok,ok,PASS,50000000,"France, USA, UK","Action, Biography, Crime, Drama, Thriller",TRUE,Maverick Entertainment,-1
+2005,tt0419706,Doom,notalk,notalk,FAIL,70000000,"UK, Czech Republic, Germany, USA","Action, Adventure, Horror, Sci-Fi",TRUE,Universal Pictures,19
+2005,tt0120667,Fantastic Four,notalk-disagree,notalk,FAIL,87500000,"USA, Germany","Action, Adventure, Fantasy, Sci-Fi",TRUE,20th Century Fox,27
+2005,tt0408790,Flightplan,ok,ok,PASS,55000000,USA,"Action, Drama, Mystery, Thriller",TRUE,Touchstone Pictures,37
+2005,tt0369441,Fun with Dick and Jane,ok,ok,PASS,140000000,USA,"Comedy, Crime",TRUE,Columbia Pictures,28
+2005,tt0433383,"Good Night, and Good Luck.",notalk,notalk,FAIL,7000000,"USA, France, UK, Japan","Biography, Drama, History",TRUE,Warner Independent Pictures,93
+2005,tt0424136,Hard Candy,ok-disagree,ok,PASS,950000,USA,"Crime, Drama, Thriller",TRUE,Lions Gate Films,67
+2005,tt0330373,Harry Potter and the Goblet of Fire,notalk-disagree,notalk,FAIL,150000000,"UK, USA","Adventure, Family, Fantasy, Mystery",TRUE,Warner Bros. Pictures,88
+2005,tt0400497,Herbie Fully Loaded,ok,ok,PASS,50000000,USA,"Adventure, Comedy, Family, Fantasy, Romance, Sport",TRUE,Buena Vista,41
+2005,tt0382077,Hide and Seek,ok,ok,PASS,25000000,"USA, Germany","Drama, Horror, Mystery, Thriller",TRUE,20th Century Fox,13
+2005,tt0386588,Hitch,men,men,FAIL,55000000,USA,"Comedy, Romance",TRUE,Sony Pictures,68
+2005,tt0443536,Hoodwinked!,ok,ok,PASS,17500000,USA,"Animation, Comedy, Crime, Family, Musical, Mystery",TRUE,Weinstein Company,47
+2005,tt0450278,Hostel,notalk,notalk,FAIL,4800000,"USA, Germany, Czech Republic, Slovakia, Iceland","Horror, Mystery, Thriller",TRUE,Lions Gate Films,61
+2005,tt0410097,Hustle &amp; Flow,dubious,dubious,FAIL,2800000,USA,"Crime, Drama, Music",TRUE,MTV Films,82
+2005,tt0396652,Ice Princess,ok,ok,PASS,25000000,"USA, Canada","Comedy, Drama, Family, Sport",TRUE,Buena Vista Pictures,51
+2005,tt0418763,Jarhead,nowomen,nowomen,FAIL,72000000,"USA, UK, Germany","Biography, Drama, War",TRUE,Universal Pictures,61
+2005,tt0418773,Junebug,ok,ok,PASS,1000000,USA,"Comedy, Drama",TRUE,Sony Pictures Classics,87
+2005,tt0425123,Just Like Heaven,ok,ok,PASS,58000000,USA,"Comedy, Drama, Fantasy, Romance",TRUE,Dreamworks,55
+2005,tt0360717,King Kong,nowomen,nowomen,FAIL,207000000,"New Zealand, USA, Germany","Action, Adventure, Drama, Romance",TRUE,Universal Pictures,84
+2005,tt0320661,Kingdom of Heaven,nowomen,nowomen,FAIL,110000000,"UK, Germany, Spain, Morocco, USA","Action, Adventure, Drama, History, War",TRUE,20th Century Fox,39
+2005,tt0373469,Kiss Kiss Bang Bang,notalk,notalk,FAIL,15000000,USA,"Action, Comedy, Crime, Mystery, Thriller",TRUE,Warner Bros. Pictures,85
+2005,tt0399295,Lord of War,men,men,FAIL,42000000,"USA, Germany, France","Crime, Drama, Thriller",TRUE,Lions Gate,62
+2005,tt0351283,Madagascar,nowomen,nowomen,FAIL,75000000,USA,"Animation, Adventure, Comedy, Family",TRUE,Dreamworks,55
+2005,tt0331933,Man of the House,ok,ok,PASS,50000000,USA,"Comedy, Crime",TRUE,Columbia Pictures,9
+2005,tt0416320,Match Point,ok,ok,PASS,15000000,"UK, Ireland, Luxembourg","Drama, Romance, Thriller",FALSE,Dreamworks,76
+2005,tt0415978,Me and You and Everyone We Know,ok,ok,PASS,2000000,"USA, UK","Comedy, Drama",TRUE,IFC Films,82
+2005,tt0397535,Memoirs of a Geisha,ok,ok,PASS,85000000,"USA, Japan","Drama, Romance",TRUE,Sony Pictures,35
+2005,tt0366780,MirrorMask,ok,ok,PASS,4000000,null,null,FALSE,null,-1
+2005,tt0385307,Miss Congeniality 2: Armed &amp; Fabulous,ok,ok,PASS,60000000,USA,"Action, Comedy, Crime",TRUE,Warner Bros.,15
+2005,tt0356910,Mr. &amp; Mrs. Smith,men,men,FAIL,110000000,USA,"Action, Comedy, Crime, Thriller",TRUE,20th Century Fox,59
+2005,tt0408306,Munich,notalk,notalk,FAIL,75000000,"France, Canada, USA","Drama, History, Thriller",TRUE,Universal Pictures,78
+2005,tt0395972,North Country,ok,ok,PASS,30000000,USA,Drama,TRUE,Warner Bros. Pictures,69
+2005,tt0380599,Oliver Twist,notalk,notalk,FAIL,65000000,"Czech Republic, UK, France, Italy","Crime, Drama",FALSE,N/A,-1
+2005,tt0414387,Pride and Prejudice,ok,ok,PASS,28000000,"France, UK, USA","Drama, Romance",TRUE,Focus Features,86
+2005,tt0377107,Proof,ok,ok,PASS,20000000,USA,"Drama, Mystery",TRUE,Miramax Films,63
+2005,tt0421239,Red Eye,ok,ok,PASS,26000000,USA,"Mystery, Thriller",TRUE,Dreamworks,79
+2005,tt0294870,Rent,ok,ok,PASS,40000000,USA,"Drama, Musical, Romance",TRUE,Sony Pictures,46
+2005,tt0358082,Robots,notalk-disagree,notalk,FAIL,80000000,USA,"Animation, Adventure, Comedy, Family, Sci-Fi",TRUE,20th Century Fox,64
+2005,tt0432348,Saw II,dubious-disagree,dubious,FAIL,5000000,"USA, Canada","Crime, Horror, Mystery",TRUE,Lions Gate Films,37
+2005,tt0379786,Serenity,ok,ok,PASS,39000000,USA,"Action, Adventure, Sci-Fi, Thriller",TRUE,Universal Pictures,83
+2005,tt0338427,Shopgirl,men,men,FAIL,7500000,USA,"Drama, Romance",TRUE,Touchstone Pictures,60
+2005,tt0401792,Sin City,ok-disagree,ok,PASS,40000000,USA,"Crime, Thriller",TRUE,Dimension Films,77
+2005,tt0474361,Sisters in Law,ok,ok,PASS,300000,"Cameroon, UK",Documentary,FALSE,Women Make Movies,92
+2005,tt0405325,Sky High,ok,ok,PASS,60000000,USA,"Adventure, Comedy, Family, Sci-Fi",TRUE,Buena Vista,74
+2005,tt0362165,Son of the Mask,notalk,notalk,FAIL,100000000,"USA, Germany","Comedy, Family, Fantasy",TRUE,New Line Cinema,6
+2005,tt0121766,Star Wars: Episode III - Revenge of the Sith,notalk-disagree,notalk,FAIL,115000000,USA,"Action, Adventure, Fantasy, Sci-Fi",TRUE,20th Century Fox,80
+2005,tt0382992,Stealth,notalk,notalk,FAIL,138000000,USA,"Action, Adventure, Sci-Fi, Thriller",TRUE,Columbia Pictures,12
+2005,tt0369994,Strangers with Candy,ok,ok,PASS,2000000,USA,Comedy,TRUE,ThinkFilm,52
+2005,tt0427944,Thank You for Smoking,notalk,notalk,FAIL,7500000,null,null,FALSE,null,-1
+2005,tt0405422,The 40 Year Old Virgin,men-disagree,men,FAIL,26000000,USA,"Comedy, Romance",TRUE,Universal Pictures,85
+2005,tt0424774,The Adventures of Sharkboy and Lavagirl 3-D,notalk,notalk,FAIL,50000000,USA,"Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",TRUE,Miramax,19
+2005,tt0384806,The Amityville Horror,ok,ok,PASS,18500000,USA,"Drama, Horror, Mystery, Thriller",TRUE,MGM,24
+2005,tt0357110,The Ballad of Jack and Rose,ok,ok,PASS,1500000,USA,Drama,TRUE,IFC Films,47
+2005,tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",ok,ok,PASS,180000000,"USA, UK","Adventure, Family, Fantasy",TRUE,Buena Vista,76
+2005,tt0387131,The Constant Gardener,ok,ok,PASS,25500000,"UK, Germany, USA, China, Kenya","Drama, Mystery, Romance, Thriller",TRUE,Focus Features,83
+2005,tt0435625,The Descent,ok,ok,PASS,7000000,UK,"Adventure, Horror, Thriller",FALSE,Lionsgate,85
+2005,tt0395584,The Devil&#39;s Rejects,ok,ok,PASS,7000000,"USA, Germany",Horror,TRUE,Lions Gate Films,53
+2005,tt0404032,The Exorcism of Emily Rose,ok,ok,PASS,18000000,USA,"Drama, Horror, Thriller",TRUE,Dimension Films,20
+2005,tt0432291,The Fog,ok,ok,PASS,18000000,USA,Horror,TRUE,Sony Pictures Classics,4
+2005,tt0371724,The Hitchhiker&#39;s Guide to the Galaxy,notalk-disagree,notalk,FAIL,45000000,"UK, USA","Adventure, Comedy, Sci-Fi",TRUE,Buena Vista,60
+2005,tt0399201,The Island,ok,ok,PASS,120000000,USA,"Action, Sci-Fi, Thriller",TRUE,Dreamworks Distribution LLC,40
+2005,tt0366627,The Jacket,men,men,FAIL,28500000,"Germany, USA","Drama, Fantasy, Mystery, Sci-Fi, Thriller",TRUE,Warner Independent,44
+2005,tt0386140,The Legend of Zorro,notalk,notalk,FAIL,80000000,USA,"Action, Adventure, Romance, Thriller, Western",TRUE,Sony Pictures Entertainment,26
+2005,tt0402399,The New World,dubious,dubious,FAIL,30000000,"USA, UK","Biography, Drama, History, Romance",TRUE,New Line Cinema,62
+2005,tt0377109,The Ring Two,ok,ok,PASS,50000000,USA,"Horror, Mystery",TRUE,Dreamworks Distribution LLC,20
+2005,tt0397101,The Skeleton Key,ok,ok,PASS,40000000,"USA, Germany","Drama, Horror, Mystery, Thriller",TRUE,Universal Pictures,37
+2005,tt0367089,The Squid and the Whale,men,men,FAIL,1500000,USA,"Comedy, Drama",TRUE,Samuel Goldwyn Films,93
+2005,tt0372532,The Wedding Date,ok,ok,PASS,15000000,"USA, UK","Comedy, Romance",TRUE,Universal Pictures,11
+2005,tt0407265,Transamerica,ok,ok,PASS,1000000,USA,"Adventure, Comedy, Drama",TRUE,Weinstein Company,77
+2005,tt0423409,Tristram Shandy: A Cock and Bull Story,men,men,FAIL,4750000,UK,Comedy,FALSE,Picturehouse,89
+2005,tt0434409,V for Vendetta,ok-disagree,ok,PASS,50000000,"USA, UK, Germany","Action, Drama, Sci-Fi, Thriller",TRUE,Warner Bros. Pictures,73
+2005,tt0348333,Waiting...,ok,ok,PASS,1125000,USA,Comedy,TRUE,Lions Gate,31
+2005,tt0358273,Walk the Line,ok,ok,PASS,29000000,"USA, Germany","Biography, Drama, Music, Romance",TRUE,20th Century Fox,83
+2005,tt0407304,War of the Worlds,notalk,notalk,FAIL,132000000,USA,"Adventure, Sci-Fi, Thriller",TRUE,Paramount Pictures,75
+2005,tt0240200,Water,ok,ok,PASS,3000000,"Canada, India","Drama, Romance",FALSE,Fox Searchlight Pictures,90
+2005,tt0375210,White Noise,notalk,notalk,FAIL,10000000,"UK, Canada, USA","Drama, Horror, Mystery, Thriller",TRUE,Universal Pictures,7
+2005,tt0443295,"Yours, Mine and Ours",ok,ok,PASS,45000000,USA,"Comedy, Family, Fantasy, Romance",TRUE,Paramount Pictures,6
+2005,tt0406375,Zathura: A Space Adventure,nowomen,nowomen,FAIL,65000000,USA,"Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",TRUE,Sony Pictures,75
+2004,tt0337563,13 Going on 30,ok,ok,PASS,30000000,null,null,FALSE,null,-1
+2004,tt0212712,2046,ok,ok,PASS,12000000,"Hong Kong, China, France, Italy, Germany","Drama, Romance, Sci-Fi",FALSE,Sony Pictures Classics,85
+2004,tt0343660,50 First Dates,men-disagree,men,FAIL,75000000,USA,"Comedy, Drama, Romance",TRUE,Sony Pictures,45
+2004,tt0356470,A Cinderella Story,ok,ok,PASS,19000000,"USA, Canada","Comedy, Family, Romance",TRUE,Warner Bros. Pictures,12
+2004,tt0359423,A Home at the End of The World,dubious,dubious,FAIL,6500000,USA,"Drama, Romance",TRUE,Warner Independent,50
+2004,tt0344510,A Very Long Engagement,ok,ok,PASS,55000000,"France, USA","Drama, Mystery, Romance, War",TRUE,Warner Bros. Pictures,78
+2004,tt0357413,Anchorman: The Legend of Ron Burgundy,men-disagree,men,FAIL,25000000,USA,Comedy,TRUE,Dreamworks,66
+2004,tt0327437,Around the World in 80 Days,notalk,notalk,FAIL,110000000,"USA, Germany, Ireland, UK","Action, Adventure, Comedy, Family, Western",TRUE,Buena Vista Pictures,32
+2004,tt0370263,AVP: Alien vs. Predator,dubious-disagree,dubious,FAIL,70000000,"USA, UK, Czech Republic, Canada, Germany","Action, Adventure, Horror, Sci-Fi, Thriller",TRUE,20th Century Fox,21
+2004,tt0414852,Banlieue 13,nowomen,nowomen,FAIL,15000000,France,"Action, Crime, Sci-Fi, Thriller",FALSE,Magnolia Pictures,80
+2004,tt0381681,Before Sunset,nowomen,nowomen,FAIL,2000000,"USA, France","Drama, Romance",TRUE,Warner Independent Pictures,95
+2004,tt0317198,Bridget Jones: The Edge of Reason,ok,ok,PASS,50000000,"UK, France, Germany, Ireland, USA","Comedy, Drama, Romance",TRUE,Miramax Films,27
+2004,tt0327554,Catwoman,ok,ok,PASS,100000000,USA,"Action, Crime, Fantasy",TRUE,Warner Bros. Pictures,9
+2004,tt0337921,Cellular,ok,ok,PASS,45000000,"USA, Germany","Action, Crime, Thriller",TRUE,New Line Cinema,55
+2004,tt0376541,Closer,ok,ok,PASS,35000000,"USA, UK","Drama, Romance",TRUE,Sony Pictures,68
+2004,tt0369339,Collateral,nowomen-disagree,nowomen,FAIL,60000000,USA,"Crime, Drama, Thriller",TRUE,Paramount Pictures,86
+2004,tt0345074,Connie and Carla,ok,ok,PASS,20000000,USA,"Comedy, Crime, Music",TRUE,Universal Pictures,44
+2004,tt0375679,Crash,ok,ok,PASS,7303082,"USA, Germany","Crime, Drama, Thriller",TRUE,Lions Gate Films,74
+2004,tt0367631,D.E.B.S.,ok,ok,PASS,3500000,USA,"Action, Comedy, Romance",TRUE,Destination Films,38
+2004,tt0363547,Dawn of the Dead,ok,ok,PASS,28000000,"USA, Canada, Japan, France",Horror,TRUE,Universal Pictures,75
+2004,tt0364725,Dodgeball: A True Underdog Story,ok,ok,PASS,30000000,"USA, Germany","Comedy, Sport",TRUE,20th Century Fox,70
+2004,tt0327679,Ella Enchanted,ok,ok,PASS,35000000,"USA, Ireland, UK","Comedy, Family, Fantasy, Romance",TRUE,Miramax Films,50
+2004,tt0338013,Eternal Sunshine of the Spotless Mind,men,men,FAIL,20000000,USA,"Drama, Romance, Sci-Fi",TRUE,Focus Features,93
+2004,tt0349416,Eulogy,ok,ok,PASS,10000000,"USA, UK, Germany","Comedy, Drama",TRUE,Lions Gate Films,32
+2004,tt0308644,Finding Neverland,ok,ok,PASS,25000000,"USA, UK","Biography, Drama, Family",TRUE,Miramax Films,82
+2004,tt0377062,Flight of the Phoenix,nowomen,nowomen,FAIL,75000000,USA,"Action, Adventure, Drama, Thriller",TRUE,20th Century Fox,30
+2004,tt0333766,Garden State,ok,ok,PASS,2500000,USA,"Comedy, Drama, Romance",TRUE,Fox Searchlight,86
+2004,tt0366551,Harold and Kumar Go to White Castle,ok-disagree,ok,PASS,9000000,"USA, Canada, Germany","Adventure, Comedy",TRUE,New Line Cinema,74
+2004,tt0304141,Harry Potter and the Prisoner of  Azkaban,ok,ok,PASS,130000000,"UK, USA","Adventure, Family, Fantasy, Mystery",TRUE,Warner Bros. Pictures,90
+2004,tt0167190,Hellboy,notalk,notalk,FAIL,60000000,USA,"Action, Fantasy, Horror, Sci-Fi",TRUE,Sony Pictures,81
+2004,tt0299172,Home on the Range,ok,ok,PASS,110000000,USA,"Animation, Adventure, Comedy, Family, Music, Western",TRUE,Walt Disney Pictures,53
+2004,tt0356721,I Heart Huckabees,ok,ok,PASS,22000000,"USA, UK, Germany",Comedy,TRUE,Fox Searchlight,63
+2004,tt0343818,"I, Robot",notalk-disagree,notalk,FAIL,105000000,"USA, Germany","Action, Crime, Drama, Mystery, Sci-Fi, Thriller",TRUE,N/A,-1
+2004,tt0385267,In Good Company,notalk,notalk,FAIL,26000000,USA,"Comedy, Drama, Romance",TRUE,Universal Pictures,82
+2004,tt0362269,Kinsey,ok,ok,PASS,11000000,"USA, Germany","Biography, Drama, Romance",TRUE,Fox Searchlight Pictures,90
+2004,tt0373074,Kung Fu Hustle,nowomen-disagree,nowomen,FAIL,20000000,"Hong Kong, China","Action, Comedy, Fantasy",FALSE,Sony Pictures Classics,90
+2004,tt0375912,Layer Cake,notalk,notalk,FAIL,6500000,UK,"Action, Crime, Drama, Thriller",FALSE,Sony Classics,80
+2004,tt0339291,Lemony Snicket&#39;s A Series of Unfortunate Events,ok,ok,PASS,100000000,"USA, Germany","Adventure, Comedy, Family, Fantasy",TRUE,Paramount Pictures,72
+2004,tt0390221,Maria Full of Grace,ok,ok,PASS,3200000,"Colombia, Ecuador, USA","Crime, Drama",TRUE,New Line Cinema,97
+2004,tt0377092,Mean Girls,ok,ok,PASS,18000000,"USA, Canada",Comedy,TRUE,Paramount Pictures,84
+2004,tt0405159,Million Dollar Baby,ok,ok,PASS,30000000,USA,"Drama, Sport",TRUE,Warner Bros. Pictures,91
+2004,tt0349825,Miracle,notalk,notalk,FAIL,28000000,"Canada, USA","Biography, Drama, History, Sport",TRUE,Buena Vista Pictures,80
+2004,tt0382189,My Summer of Love,ok,ok,PASS,1700000,UK,"Drama, Romance, Thriller",FALSE,Focus Features,90
+2004,tt0374900,Napoleon Dynamite,notalk-disagree,notalk,FAIL,400000,USA,Comedy,TRUE,Fox Searchlight Pictures,71
+2004,tt0363282,New York Minute,notalk-disagree,notalk,FAIL,40000000,USA,"Comedy, Crime, Family, Romance",TRUE,Warner Bros.,11
+2004,tt0390384,Primer,notalk,notalk,FAIL,7000,USA,"Drama, Sci-Fi, Thriller",TRUE,ThinkFilm,72
+2004,tt0350028,Raising Helen,ok,ok,PASS,50000000,USA,"Comedy, Drama, Romance",TRUE,Buena Vista Pictures,25
+2004,tt0350258,Ray,dubious,dubious,FAIL,40000000,USA,"Biography, Drama, Music",TRUE,Universal Pictures,80
+2004,tt0318627,Resident Evil: Apocalypse,ok,ok,PASS,50000000,"Germany, France, UK, Canada, USA","Action, Horror, Sci-Fi, Thriller",TRUE,Sony Pictures,20
+2004,tt0332375,Saved!,ok-disagree,ok,PASS,5000000,"USA, Canada","Comedy, Drama",TRUE,MGM,61
+2004,tt0387564,Saw,men-disagree,men,FAIL,1200000,USA,"Crime, Horror, Mystery, Thriller",TRUE,Lions Gate Films,49
+2004,tt0363988,Secret Window,notalk,notalk,FAIL,40000000,USA,"Drama, Mystery, Thriller",TRUE,Columbia Pictures,46
+2004,tt0307453,Shark Tale,notalk,notalk,FAIL,75000000,USA,"Animation, Adventure, Comedy, Family, Fantasy",TRUE,DreamWorks SKG,36
+2004,tt0365748,Shaun of the Dead,ok-disagree,ok,PASS,5000000,"UK, France","Comedy, Horror",FALSE,Focus Features,92
+2004,tt0298148,Shrek 2,ok-disagree,ok,PASS,70000000,USA,"Animation, Adventure, Comedy, Family, Fantasy, Romance",TRUE,DreamWorks SKG,89
+2004,tt0375063,Sideways,ok,ok,PASS,17000000,"USA, Hungary","Comedy, Drama, Romance",TRUE,Fox Searchlight Pictures,96
+2004,tt0346156,Sky Captain and the World of Tomorrow,ok-disagree,ok,PASS,70000000,"USA, UK, Italy","Action, Adventure, Mystery, Sci-Fi, Thriller",TRUE,Paramount,71
+2004,tt0371246,Spanglish,ok,ok,PASS,75000000,USA,"Comedy, Drama, Romance",TRUE,Sony Pictures Entertainment,53
+2004,tt0316654,Spider-Man 2,notalk-disagree,notalk,FAIL,200000000,USA,"Action, Adventure, Sci-Fi",TRUE,Sony Pictures,93
+2004,tt0372588,Team America: World Police,men,men,FAIL,20000000,"USA, Germany","Action, Comedy",TRUE,Paramount Pictures,77
+2004,tt0338751,The Aviator,notalk,notalk,FAIL,110000000,"Germany, USA","Biography, Drama",TRUE,Miramax,86
+2004,tt0372183,The Bourne Supremacy,men,men,FAIL,85000000,"USA, Germany","Action, Mystery, Thriller",TRUE,Universal Pictures,81
+2004,tt0289879,The Butterfly Effect,men-disagree,men,FAIL,13000000,"USA, Canada","Drama, Sci-Fi, Thriller",TRUE,New Line Cinema,33
+2004,tt0296572,The Chronicles of Riddick,men-disagree,men,FAIL,120000000,USA,"Action, Adventure, Sci-Fi, Thriller",TRUE,Universal Pictures,29
+2004,tt0319262,The Day After Tomorrow,ok,ok,PASS,125000000,USA,"Action, Adventure, Sci-Fi, Thriller",TRUE,20th Century Fox,44
+2004,tt0391198,The Grudge,ok,ok,PASS,10000000,"USA, Japan","Horror, Mystery, Thriller",TRUE,Sony Pictures Entertainment,39
+2004,tt0317705,The Incredibles,ok-disagree,ok,PASS,92000000,USA,"Animation, Action, Adventure, Family",TRUE,N/A,-1
+2004,tt0362270,The Life Aquatic with Steve Zissou,men,men,FAIL,50000000,USA,"Action, Adventure, Comedy, Drama, Romance",TRUE,Empire Pictures,73
